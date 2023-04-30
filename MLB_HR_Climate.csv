@@ -1,0 +1,702 @@
+Team,Venue,Year,HR,State,County,¢XF
+D-backs,Chase Field,1999,94,Arizona,Phoenix,80.6
+D-backs,Chase Field,2000,87,Arizona,Phoenix,84.3
+D-backs,Chase Field,2001,127,Arizona,Phoenix,83.8
+D-backs,Chase Field,2002,94,Arizona,Phoenix,83.7
+D-backs,Chase Field,2003,114,Arizona,Phoenix,82.9
+D-backs,Chase Field,2004,122,Arizona,Phoenix,82.5
+D-backs,Chase Field,2005,104,Arizona,Phoenix,82.4
+D-backs,Chase Field,2006,121,Arizona,Phoenix,83.5
+D-backs,Chase Field,2007,106,Arizona,Phoenix,83.8
+D-backs,Chase Field,2008,103,Arizona,Phoenix,82.7
+D-backs,Chase Field,2009,102,Arizona,Phoenix,83.5
+D-backs,Chase Field,2010,112,Arizona,Phoenix,82.1
+D-backs,Chase Field,2011,113,Arizona,Phoenix,83.1
+D-backs,Chase Field,2012,119,Arizona,Phoenix,83.7
+D-backs,Chase Field,2013,97,Arizona,Phoenix,83.5
+D-backs,Chase Field,2014,111,Arizona,Phoenix,82.8
+D-backs,Chase Field,2015,86,Arizona,Phoenix,82.9
+D-backs,Chase Field,2016,124,Arizona,Phoenix,83.1
+D-backs,Chase Field,2017,123,Arizona,Phoenix,83.7
+D-backs,Chase Field,2018,95,Arizona,Phoenix,84.6
+D-backs,Chase Field,2019,94,Arizona,Phoenix,82.7
+D-backs,Chase Field,2020,87,Arizona,Phoenix,85.4
+D-backs,Chase Field,2021,85,Arizona,Phoenix,83.8
+D-backs,Chase Field,2022,73,Arizona,Phoenix,83.9
+Angels,Angel Stadium,1999,113,California,Anaheim,66.9
+Angels,Angel Stadium,2000,109,California,Anaheim,70
+Angels,Angel Stadium,2001,107,California,Anaheim,69.6
+Angels,Angel Stadium,2002,81,California,Anaheim,69.1
+Angels,Angel Stadium,2003,83,California,Anaheim,69.3
+Angels,Angel Stadium,2004,103,California,Anaheim,69.8
+Angels,Angel Stadium,2005,89,California,Anaheim,68.2
+Angels,Angel Stadium,2006,81,California,Anaheim,70.2
+Angels,Angel Stadium,2007,85,California,Anaheim,69.9
+Angels,Angel Stadium,2008,98,California,Anaheim,70.4
+Angels,Angel Stadium,2009,117,California,Anaheim,70.1
+Angels,Angel Stadium,2010,79,California,Anaheim,67.4
+Angels,Angel Stadium,2011,81,California,Anaheim,68.2
+Angels,Angel Stadium,2012,80,California,Anaheim,70.8
+Angels,Angel Stadium,2013,89,California,Anaheim,70.9
+Angels,Angel Stadium,2014,80,California,Anaheim,71.3
+Angels,Angel Stadium,2015,96,California,Anaheim,70.3
+Angels,Angel Stadium,2016,98,California,Anaheim,70.7
+Angels,Angel Stadium,2017,96,California,Anaheim,71.2
+Angels,Angel Stadium,2018,109,California,Anaheim,71.1
+Angels,Angel Stadium,2019,101,California,Anaheim,68.9
+Angels,Angel Stadium,2020,117,California,Anaheim,70.9
+Angels,Angel Stadium,2021,117,California,Anaheim,71.7
+Angels,Angel Stadium,2022,126,California,Anaheim,72.1
+Dodgers,Dodger Stadium,1999,108,California,Los Angeles,66.9
+Dodgers,Dodger Stadium,2000,99,California,Los Angeles,70
+Dodgers,Dodger Stadium,2001,95,California,Los Angeles,69.6
+Dodgers,Dodger Stadium,2002,103,California,Los Angeles,69.1
+Dodgers,Dodger Stadium,2003,132,California,Los Angeles,69.3
+Dodgers,Dodger Stadium,2004,100,California,Los Angeles,69.8
+Dodgers,Dodger Stadium,2005,107,California,Los Angeles,68.2
+Dodgers,Dodger Stadium,2006,121,California,Los Angeles,70.2
+Dodgers,Dodger Stadium,2007,102,California,Los Angeles,69.9
+Dodgers,Dodger Stadium,2008,99,California,Los Angeles,70.4
+Dodgers,Dodger Stadium,2009,88,California,Los Angeles,70.1
+Dodgers,Dodger Stadium,2010,102,California,Los Angeles,67.4
+Dodgers,Dodger Stadium,2011,90,California,Los Angeles,68.2
+Dodgers,Dodger Stadium,2012,106,California,Los Angeles,70.8
+Dodgers,Dodger Stadium,2013,106,California,Los Angeles,70.9
+Dodgers,Dodger Stadium,2014,136,California,Los Angeles,71.3
+Dodgers,Dodger Stadium,2015,102,California,Los Angeles,70.3
+Dodgers,Dodger Stadium,2016,97,California,Los Angeles,70.7
+Dodgers,Dodger Stadium,2017,104,California,Los Angeles,71.2
+Dodgers,Dodger Stadium,2018,110,California,Los Angeles,71.1
+Dodgers,Dodger Stadium,2019,115,California,Los Angeles,68.9
+Dodgers,Dodger Stadium,2020,115,California,Los Angeles,70.9
+Dodgers,Dodger Stadium,2021,139,California,Los Angeles,71.7
+Dodgers,Dodger Stadium,2022,125,California,Los Angeles,72.1
+Athletics,Oakland Coliseum,1999,88,California,Oakland,63.8
+Athletics,Oakland Coliseum,2000,96,California,Oakland,65.8
+Athletics,Oakland Coliseum,2001,94,California,Oakland,66
+Athletics,Oakland Coliseum,2002,118,California,Oakland,65.3
+Athletics,Oakland Coliseum,2003,101,California,Oakland,65.7
+Athletics,Oakland Coliseum,2004,109,California,Oakland,66.3
+Athletics,Oakland Coliseum,2005,91,California,Oakland,65.1
+Athletics,Oakland Coliseum,2006,87,California,Oakland,66.2
+Athletics,Oakland Coliseum,2007,78,California,Oakland,65.4
+Athletics,Oakland Coliseum,2008,92,California,Oakland,65.9
+Athletics,Oakland Coliseum,2009,86,California,Oakland,66.1
+Athletics,Oakland Coliseum,2010,71,California,Oakland,63.8
+Athletics,Oakland Coliseum,2011,78,California,Oakland,64.1
+Athletics,Oakland Coliseum,2012,83,California,Oakland,65.5
+Athletics,Oakland Coliseum,2013,82,California,Oakland,66.7
+Athletics,Oakland Coliseum,2014,97,California,Oakland,67.5
+Athletics,Oakland Coliseum,2015,80,California,Oakland,66.9
+Athletics,Oakland Coliseum,2016,72,California,Oakland,66.6
+Athletics,Oakland Coliseum,2017,106,California,Oakland,67.4
+Athletics,Oakland Coliseum,2018,79,California,Oakland,65.7
+Athletics,Oakland Coliseum,2019,88,California,Oakland,66.5
+Athletics,Oakland Coliseum,2020,70,California,Oakland,68.5
+Athletics,Oakland Coliseum,2021,84,California,Oakland,67.6
+Athletics,Oakland Coliseum,2022,71,California,Oakland,67.5
+Padres,Qualcomm Stadium,1999,87,California,San Diego,67.6
+Padres,Qualcomm Stadium,2000,95,California,San Diego,70.9
+Padres,Qualcomm Stadium,2001,86,California,San Diego,70.3
+Padres,Qualcomm Stadium,2002,77,California,San Diego,69.7
+Padres,Qualcomm Stadium,2003,84,California,San Diego,69.8
+Padres,Petco Park,2005,74,California,San Diego,69.4
+Padres,Petco Park,2006,96,California,San Diego,71.3
+Padres,Petco Park,2007,77,California,San Diego,70.5
+Padres,Petco Park,2008,71,California,San Diego,70.8
+Padres,Petco Park,2009,73,California,San Diego,71
+Padres,Petco Park,2010,88,California,San Diego,68.1
+Padres,Petco Park,2011,84,California,San Diego,69
+Padres,Petco Park,2012,62,California,San Diego,71.2
+Padres,Petco Park,2013,91,California,San Diego,71.3
+Padres,Petco Park,2014,81,California,San Diego,72
+Padres,Petco Park,2015,108,California,San Diego,70.9
+Padres,Petco Park,2016,91,California,San Diego,71
+Padres,Petco Park,2017,83,California,San Diego,71.5
+Padres,Petco Park,2018,92,California,San Diego,72
+Padres,Petco Park,2019,89,California,San Diego,69.7
+Padres,Petco Park,2020,101,California,San Diego,72
+Padres,Petco Park,2021,88,California,San Diego,72
+Padres,Petco Park,2022,95,California,San Diego,72.2
+Giants,3Com Park at Candlestick Point,1999,96,California,San Francisco,58.5
+Giants,Oracle Park,2001,69,California,San Francisco,60.1
+Giants,Oracle Park,2002,59,California,San Francisco,59.6
+Giants,Oracle Park,2003,80,California,San Francisco,60.7
+Giants,Oracle Park,2004,85,California,San Francisco,61.4
+Giants,Oracle Park,2005,95,California,San Francisco,59.8
+Giants,Oracle Park,2006,70,California,San Francisco,60.3
+Giants,Oracle Park,2007,81,California,San Francisco,60.1
+Giants,Oracle Park,2008,94,California,San Francisco,60
+Giants,Oracle Park,2009,98,California,San Francisco,60.3
+Giants,Oracle Park,2010,87,California,San Francisco,58.8
+Giants,Oracle Park,2011,62,California,San Francisco,59
+Giants,Oracle Park,2012,56,California,San Francisco,59.1
+Giants,Oracle Park,2013,74,California,San Francisco,61.2
+Giants,Oracle Park,2014,69,California,San Francisco,62.5
+Giants,Oracle Park,2015,62,California,San Francisco,62.2
+Giants,Oracle Park,2016,67,California,San Francisco,61
+Giants,Oracle Park,2017,62,California,San Francisco,61.9
+Giants,Oracle Park,2018,76,California,San Francisco,60
+Giants,Oracle Park,2019,66,California,San Francisco,61.9
+Giants,Oracle Park,2020,99,California,San Francisco,62.9
+Giants,Oracle Park,2021,78,California,San Francisco,60.4
+Giants,Oracle Park,2022,76,California,San Francisco,61.3
+Rockies,Coors Field,1999,174,Colorado,Denver,61.5
+Rockies,Coors Field,2000,163,Colorado,Denver,65.4
+Rockies,Coors Field,2001,140,Colorado,Denver,65.1
+Rockies,Coors Field,2002,153,Colorado,Denver,65.2
+Rockies,Coors Field,2003,129,Colorado,Denver,64
+Rockies,Coors Field,2004,115,Colorado,Denver,62.3
+Rockies,Coors Field,2005,96,Colorado,Denver,63.7
+Rockies,Coors Field,2006,114,Colorado,Denver,64.8
+Rockies,Coors Field,2007,124,Colorado,Denver,64.5
+Rockies,Coors Field,2008,122,Colorado,Denver,62.8
+Rockies,Coors Field,2009,104,Colorado,Denver,61.9
+Rockies,Coors Field,2010,144,Colorado,Denver,64
+Rockies,Coors Field,2011,133,Colorado,Denver,63.7
+Rockies,Coors Field,2012,135,Colorado,Denver,67.1
+Rockies,Coors Field,2013,114,Colorado,Denver,63.8
+Rockies,Coors Field,2014,128,Colorado,Denver,63.3
+Rockies,Coors Field,2015,119,Colorado,Denver,63.9
+Rockies,Coors Field,2016,122,Colorado,Denver,64
+Rockies,Coors Field,2017,117,Colorado,Denver,64.1
+Rockies,Coors Field,2018,127,Colorado,Denver,65.7
+Rockies,Coors Field,2019,118,Colorado,Denver,64.1
+Rockies,Coors Field,2020,103,Colorado,Denver,65.3
+Rockies,Coors Field,2021,111,Colorado,Denver,64.9
+Rockies,Coors Field,2022,143,Colorado,Denver,65.5
+Marlins,Hard Rock Stadium,1999,74,Florida,Miami,80.2
+Marlins,Hard Rock Stadium,2000,87,Florida,Miami,80.2
+Marlins,Hard Rock Stadium,2001,98,Florida,Miami,79.7
+Marlins,Hard Rock Stadium,2002,70,Florida,Miami,80.7
+Marlins,Hard Rock Stadium,2003,71,Florida,Miami,80.7
+Marlins,Hard Rock Stadium,2004,104,Florida,Miami,80.1
+Marlins,Hard Rock Stadium,2005,83,Florida,Miami,80.3
+Marlins,Hard Rock Stadium,2006,89,Florida,Miami,80.3
+Marlins,Hard Rock Stadium,2007,97,Florida,Miami,80.2
+Marlins,Hard Rock Stadium,2008,87,Florida,Miami,80.4
+Marlins,Hard Rock Stadium,2009,104,Florida,Miami,80.9
+Marlins,Hard Rock Stadium,2010,80,Florida,Miami,81.5
+Marlins,Hard Rock Stadium,2011,97,Florida,Miami,81.6
+Marlins,loanDepot park,2013,66,Florida,Miami,80.8
+Marlins,loanDepot park,2014,77,Florida,Miami,81
+Marlins,loanDepot park,2015,72,Florida,Miami,82.1
+Marlins,loanDepot park,2016,80,Florida,Miami,81.7
+Marlins,loanDepot park,2017,83,Florida,Miami,81.8
+Marlins,loanDepot park,2018,65,Florida,Miami,81.3
+Marlins,loanDepot park,2019,80,Florida,Miami,82.2
+Marlins,loanDepot park,2020,92,Florida,Miami,82
+Marlins,loanDepot park,2021,81,Florida,Miami,80.8
+Marlins,loanDepot park,2022,97,Florida,Miami,81.2
+Rays,Tropicana Field,1999,95,Florida,St. Petersburg,79.7
+Rays,Tropicana Field,2000,104,Florida,St. Petersburg,79.6
+Rays,Tropicana Field,2001,90,Florida,St. Petersburg,79
+Rays,Tropicana Field,2002,85,Florida,St. Petersburg,80.3
+Rays,Tropicana Field,2003,81,Florida,St. Petersburg,79.6
+Rays,Tropicana Field,2004,99,Florida,St. Petersburg,79.4
+Rays,Tropicana Field,2005,84,Florida,St. Petersburg,79.6
+Rays,Tropicana Field,2006,114,Florida,St. Petersburg,79.9
+Rays,Tropicana Field,2007,95,Florida,St. Petersburg,79.5
+Rays,Tropicana Field,2008,88,Florida,St. Petersburg,79.4
+Rays,Tropicana Field,2009,101,Florida,St. Petersburg,80.2
+Rays,Tropicana Field,2010,95,Florida,St. Petersburg,81.2
+Rays,Tropicana Field,2011,95,Florida,St. Petersburg,80.8
+Rays,Tropicana Field,2012,78,Florida,St. Petersburg,80.1
+Rays,Tropicana Field,2013,96,Florida,St. Petersburg,80.2
+Rays,Tropicana Field,2014,80,Florida,St. Petersburg,80
+Rays,Tropicana Field,2015,103,Florida,St. Petersburg,81.3
+Rays,Tropicana Field,2016,92,Florida,St. Petersburg,81.1
+Rays,Tropicana Field,2017,88,Florida,St. Petersburg,81.2
+Rays,Tropicana Field,2018,87,Florida,St. Petersburg,80.9
+Rays,Tropicana Field,2019,92,Florida,St. Petersburg,81.5
+Rays,Tropicana Field,2020,87,Florida,St. Petersburg,81.2
+Rays,Tropicana Field,2021,81,Florida,St. Petersburg,80.2
+Rays,Tropicana Field,2022,97,Florida,St. Petersburg,81.5
+Braves,Turner Field,1999,91,Georgia,Cumberland,72.5
+Braves,Turner Field,2000,95,Georgia,Cumberland,72
+Braves,Turner Field,2001,104,Georgia,Cumberland,71.5
+Braves,Turner Field,2002,108,Georgia,Cumberland,73.3
+Braves,Turner Field,2003,93,Georgia,Cumberland,71.3
+Braves,Turner Field,2004,125,Georgia,Cumberland,71.8
+Braves,Turner Field,2005,87,Georgia,Cumberland,71.9
+Braves,Turner Field,2006,95,Georgia,Cumberland,73.2
+Braves,Turner Field,2007,98,Georgia,Cumberland,73.1
+Braves,Turner Field,2008,99,Georgia,Cumberland,72.1
+Braves,Turner Field,2009,83,Georgia,Cumberland,71.7
+Braves,Turner Field,2010,99,Georgia,Cumberland,75.1
+Braves,Turner Field,2011,93,Georgia,Cumberland,73.7
+Braves,Turner Field,2012,86,Georgia,Cumberland,73.4
+Braves,Turner Field,2013,90,Georgia,Cumberland,70.9
+Braves,Turner Field,2014,114,Georgia,Cumberland,72.1
+Braves,Turner Field,2015,70,Georgia,Cumberland,73.3
+Braves,Turner Field,2016,71,Georgia,Cumberland,74.3
+Braves,Truist Park,2018,80,Georgia,Cumberland,73.8
+Braves,Truist Park,2019,103,Georgia,Cumberland,74.8
+Braves,Truist Park,2020,101,Georgia,Cumberland,71.7
+Braves,Truist Park,2021,105,Georgia,Cumberland,71.7
+Braves,Truist Park,2022,95,Georgia,Cumberland,73
+Cubs,Wrigley Field,1999,120,Illinois,Chicago,65.7
+Cubs,Wrigley Field,2000,88,Illinois,Chicago,64.2
+Cubs,Wrigley Field,2001,95,Illinois,Chicago,65.2
+Cubs,Wrigley Field,2002,126,Illinois,Chicago,65.4
+Cubs,Wrigley Field,2003,103,Illinois,Chicago,63.1
+Cubs,Wrigley Field,2004,138,Illinois,Chicago,63.9
+Cubs,Wrigley Field,2005,100,Illinois,Chicago,66.9
+Cubs,Wrigley Field,2006,118,Illinois,Chicago,65.1
+Cubs,Wrigley Field,2007,110,Illinois,Chicago,65.9
+Cubs,Wrigley Field,2008,124,Illinois,Chicago,64.4
+Cubs,Wrigley Field,2009,100,Illinois,Chicago,63
+Cubs,Wrigley Field,2010,106,Illinois,Chicago,67.4
+Cubs,Wrigley Field,2011,98,Illinois,Chicago,64.6
+Cubs,Wrigley Field,2012,91,Illinois,Chicago,67
+Cubs,Wrigley Field,2013,108,Illinois,Chicago,64.4
+Cubs,Wrigley Field,2014,89,Illinois,Chicago,64
+Cubs,Wrigley Field,2015,133,Illinois,Chicago,65.1
+Cubs,Wrigley Field,2016,85,Illinois,Chicago,66.3
+Cubs,Wrigley Field,2017,98,Illinois,Chicago,65.3
+Cubs,Wrigley Field,2018,97,Illinois,Chicago,65.6
+Cubs,Wrigley Field,2019,92,Illinois,Chicago,65.2
+Cubs,Wrigley Field,2020,86,Illinois,Chicago,65.1
+Cubs,Wrigley Field,2021,116,Illinois,Chicago,66.7
+Cubs,Wrigley Field,2022,87,Illinois,Chicago,65.4
+White Sox,Guaranteed Rate Field,2000,125,Illinois,Chicago,64.2
+White Sox,Guaranteed Rate Field,2001,122,Illinois,Chicago,65.2
+White Sox,Guaranteed Rate Field,2002,120,Illinois,Chicago,65.4
+White Sox,Guaranteed Rate Field,2003,132,Illinois,Chicago,63.1
+White Sox,Guaranteed Rate Field,2004,136,Illinois,Chicago,63.9
+White Sox,Guaranteed Rate Field,2005,141,Illinois,Chicago,66.9
+White Sox,Guaranteed Rate Field,2006,124,Illinois,Chicago,65.1
+White Sox,Guaranteed Rate Field,2007,123,Illinois,Chicago,65.9
+White Sox,Guaranteed Rate Field,2008,128,Illinois,Chicago,64.4
+White Sox,Guaranteed Rate Field,2009,118,Illinois,Chicago,63
+White Sox,Guaranteed Rate Field,2010,149,Illinois,Chicago,67.4
+White Sox,Guaranteed Rate Field,2011,120,Illinois,Chicago,64.6
+White Sox,Guaranteed Rate Field,2012,129,Illinois,Chicago,67
+White Sox,Guaranteed Rate Field,2013,124,Illinois,Chicago,64.4
+White Sox,Guaranteed Rate Field,2014,104,Illinois,Chicago,64
+White Sox,Guaranteed Rate Field,2015,107,Illinois,Chicago,65.1
+White Sox,Guaranteed Rate Field,2016,119,Illinois,Chicago,66.3
+White Sox,Guaranteed Rate Field,2017,114,Illinois,Chicago,65.3
+White Sox,Guaranteed Rate Field,2018,97,Illinois,Chicago,65.6
+White Sox,Guaranteed Rate Field,2019,123,Illinois,Chicago,65.2
+White Sox,Guaranteed Rate Field,2020,110,Illinois,Chicago,65.1
+White Sox,Guaranteed Rate Field,2021,139,Illinois,Chicago,66.7
+White Sox,Guaranteed Rate Field,2022,123,Illinois,Chicago,65.4
+White Sox,Guaranteed Rate Field,1999,98,Illinois,Chicago,65.7
+Orioles,Oriole Park at Camden Yards,1999,98,Maryland,Baltimore,68
+Orioles,Oriole Park at Camden Yards,2000,109,Maryland,Baltimore,66.3
+Orioles,Oriole Park at Camden Yards,2001,85,Maryland,Baltimore,67.3
+Orioles,Oriole Park at Camden Yards,2002,121,Maryland,Baltimore,69.1
+Orioles,Oriole Park at Camden Yards,2003,104,Maryland,Baltimore,66.6
+Orioles,Oriole Park at Camden Yards,2004,105,Maryland,Baltimore,68.6
+Orioles,Oriole Park at Camden Yards,2005,94,Maryland,Baltimore,68.8
+Orioles,Oriole Park at Camden Yards,2006,124,Maryland,Baltimore,68.4
+Orioles,Oriole Park at Camden Yards,2007,118,Maryland,Baltimore,68.1
+Orioles,Oriole Park at Camden Yards,2008,134,Maryland,Baltimore,67.8
+Orioles,Oriole Park at Camden Yards,2009,121,Maryland,Baltimore,67.2
+Orioles,Oriole Park at Camden Yards,2010,117,Maryland,Baltimore,70.7
+Orioles,Oriole Park at Camden Yards,2011,116,Maryland,Baltimore,69.9
+Orioles,Oriole Park at Camden Yards,2012,130,Maryland,Baltimore,69.4
+Orioles,Oriole Park at Camden Yards,2013,128,Maryland,Baltimore,67.6
+Orioles,Oriole Park at Camden Yards,2014,102,Maryland,Baltimore,66.9
+Orioles,Oriole Park at Camden Yards,2015,136,Maryland,Baltimore,69.2
+Orioles,Oriole Park at Camden Yards,2016,100,Maryland,Baltimore,68.7
+Orioles,Oriole Park at Camden Yards,2017,121,Maryland,Baltimore,68.3
+Orioles,Oriole Park at Camden Yards,2018,116,Maryland,Baltimore,69
+Orioles,Oriole Park at Camden Yards,2019,120,Maryland,Baltimore,69.9
+Orioles,Oriole Park at Camden Yards,2020,95,Maryland,Baltimore,68.1
+Orioles,Oriole Park at Camden Yards,2021,153,Maryland,Baltimore,69.1
+Orioles,Oriole Park at Camden Yards,2022,77,Maryland,Baltimore,68.7
+Red Sox,Fenway Park,1999,81,Massachusetts,Boston,64.6
+Red Sox,Fenway Park,2000,74,Massachusetts,Boston,61.7
+Red Sox,Fenway Park,2001,97,Massachusetts,Boston,63.8
+Red Sox,Fenway Park,2002,82,Massachusetts,Boston,64.1
+Red Sox,Fenway Park,2003,85,Massachusetts,Boston,62.2
+Red Sox,Fenway Park,2004,96,Massachusetts,Boston,62.8
+Red Sox,Fenway Park,2005,92,Massachusetts,Boston,63.7
+Red Sox,Fenway Park,2006,72,Massachusetts,Boston,63.3
+Red Sox,Fenway Park,2007,84,Massachusetts,Boston,63.3
+Red Sox,Fenway Park,2008,86,Massachusetts,Boston,63.3
+Red Sox,Fenway Park,2009,106,Massachusetts,Boston,62.4
+Red Sox,Fenway Park,2010,83,Massachusetts,Boston,66.2
+Red Sox,Fenway Park,2011,86,Massachusetts,Boston,64.4
+Red Sox,Fenway Park,2012,102,Massachusetts,Boston,64.8
+Red Sox,Fenway Park,2013,84,Massachusetts,Boston,64.2
+Red Sox,Fenway Park,2014,73,Massachusetts,Boston,63.4
+Red Sox,Fenway Park,2015,101,Massachusetts,Boston,64.9
+Red Sox,Fenway Park,2016,104,Massachusetts,Boston,64.9
+Red Sox,Fenway Park,2017,82,Massachusetts,Boston,64.2
+Red Sox,Fenway Park,2018,94,Massachusetts,Boston,65.1
+Red Sox,Fenway Park,2019,88,Massachusetts,Boston,64.3
+Red Sox,Fenway Park,2020,90,Massachusetts,Boston,64.3
+Red Sox,Fenway Park,2021,94,Massachusetts,Boston,65.3
+Red Sox,Fenway Park,2022,118,Massachusetts,Boston,65.7
+Tigers,Tiger Stadium,1999,130,Michigan,Detroit,65.3
+Tigers,Comerica Park,2001,70,Michigan,Detroit,64.4
+Tigers,Comerica Park,2002,71,Michigan,Detroit,64.9
+Tigers,Comerica Park,2003,84,Michigan,Detroit,62.4
+Tigers,Comerica Park,2004,86,Michigan,Detroit,63.6
+Tigers,Comerica Park,2005,89,Michigan,Detroit,65.7
+Tigers,Comerica Park,2006,79,Michigan,Detroit,64.6
+Tigers,Comerica Park,2007,115,Michigan,Detroit,64.7
+Tigers,Comerica Park,2008,120,Michigan,Detroit,64.2
+Tigers,Comerica Park,2009,99,Michigan,Detroit,62.8
+Tigers,Comerica Park,2010,86,Michigan,Detroit,66.6
+Tigers,Comerica Park,2011,101,Michigan,Detroit,64.8
+Tigers,Comerica Park,2012,100,Michigan,Detroit,66
+Tigers,Comerica Park,2013,105,Michigan,Detroit,63.9
+Tigers,Comerica Park,2014,102,Michigan,Detroit,63.2
+Tigers,Comerica Park,2015,81,Michigan,Detroit,64.8
+Tigers,Comerica Park,2016,116,Michigan,Detroit,65.5
+Tigers,Comerica Park,2017,110,Michigan,Detroit,65.1
+Tigers,Comerica Park,2018,83,Michigan,Detroit,65.4
+Tigers,Comerica Park,2019,98,Michigan,Detroit,64.9
+Tigers,Comerica Park,2020,91,Michigan,Detroit,64.5
+Tigers,Comerica Park,2021,69,Michigan,Detroit,66.4
+Tigers,Comerica Park,2022,77,Michigan,Detroit,65.7
+Twins,Hubert H. Humphrey Metrodome,1999,92,Minnesota,Minneapolis,63.2
+Twins,Hubert H. Humphrey Metrodome,2000,83,Minnesota,Minneapolis,62.3
+Twins,Hubert H. Humphrey Metrodome,2001,96,Minnesota,Minneapolis,63.2
+Twins,Hubert H. Humphrey Metrodome,2002,73,Minnesota,Minneapolis,62.4
+Twins,Hubert H. Humphrey Metrodome,2003,99,Minnesota,Minneapolis,62.6
+Twins,Hubert H. Humphrey Metrodome,2004,92,Minnesota,Minneapolis,61.4
+Twins,Hubert H. Humphrey Metrodome,2005,96,Minnesota,Minneapolis,64.5
+Twins,Hubert H. Humphrey Metrodome,2006,85,Minnesota,Minneapolis,64.2
+Twins,Hubert H. Humphrey Metrodome,2007,75,Minnesota,Minneapolis,64.2
+Twins,Hubert H. Humphrey Metrodome,2008,92,Minnesota,Minneapolis,61.6
+Twins,Hubert H. Humphrey Metrodome,2009,115,Minnesota,Minneapolis,61.7
+Twins,Target Field,2011,85,Minnesota,Minneapolis,62.8
+Twins,Target Field,2012,100,Minnesota,Minneapolis,65
+Twins,Target Field,2013,81,Minnesota,Minneapolis,61.7
+Twins,Target Field,2014,94,Minnesota,Minneapolis,61.3
+Twins,Target Field,2015,103,Minnesota,Minneapolis,63.4
+Twins,Target Field,2016,100,Minnesota,Minneapolis,63.8
+Twins,Target Field,2017,110,Minnesota,Minneapolis,62.8
+Twins,Target Field,2018,94,Minnesota,Minneapolis,62.9
+Twins,Target Field,2019,86,Minnesota,Minneapolis,61.7
+Twins,Target Field,2020,79,Minnesota,Minneapolis,62.8
+Twins,Target Field,2021,99,Minnesota,Minneapolis,64.7
+Twins,Target Field,2022,89,Minnesota,Minneapolis,62.9
+Royals,Kauffman Stadium,1999,97,Missouri,Kansas City,68.8
+Royals,Kauffman Stadium,2000,102,Missouri,Kansas City,70.4
+Royals,Kauffman Stadium,2001,103,Missouri,Kansas City,70.3
+Royals,Kauffman Stadium,2002,141,Missouri,Kansas City,70.9
+Royals,Kauffman Stadium,2003,101,Missouri,Kansas City,69.5
+Royals,Kauffman Stadium,2004,71,Missouri,Kansas City,68.4
+Royals,Kauffman Stadium,2005,75,Missouri,Kansas City,70.8
+Royals,Kauffman Stadium,2006,98,Missouri,Kansas City,71.1
+Royals,Kauffman Stadium,2007,92,Missouri,Kansas City,70.5
+Royals,Kauffman Stadium,2008,78,Missouri,Kansas City,67.6
+Royals,Kauffman Stadium,2009,76,Missouri,Kansas City,67.5
+Royals,Kauffman Stadium,2010,96,Missouri,Kansas City,71.6
+Royals,Kauffman Stadium,2011,65,Missouri,Kansas City,70
+Royals,Kauffman Stadium,2012,100,Missouri,Kansas City,72.3
+Royals,Kauffman Stadium,2013,88,Missouri,Kansas City,68.2
+Royals,Kauffman Stadium,2014,87,Missouri,Kansas City,68.4
+Royals,Kauffman Stadium,2015,81,Missouri,Kansas City,69.9
+Royals,Kauffman Stadium,2016,73,Missouri,Kansas City,70.6
+Royals,Kauffman Stadium,2017,81,Missouri,Kansas City,69.3
+Royals,Kauffman Stadium,2018,88,Missouri,Kansas City,70.7
+Royals,Kauffman Stadium,2019,69,Missouri,Kansas City,70
+Royals,Kauffman Stadium,2020,90,Missouri,Kansas City,68.3
+Royals,Kauffman Stadium,2021,79,Missouri,Kansas City,70
+Royals,Kauffman Stadium,2022,75,Missouri,Kansas City,70.2
+Cardinals,Busch Stadium,1999,108,Missouri,St. Louis,70.4
+Cardinals,Busch Stadium,2000,131,Missouri,St. Louis,69.9
+Cardinals,Busch Stadium,2001,95,Missouri,St. Louis,71
+Cardinals,Busch Stadium,2002,105,Missouri,St. Louis,71.1
+Cardinals,Busch Stadium,2003,82,Missouri,St. Louis,68.7
+Cardinals,Busch Stadium,2004,85,Missouri,St. Louis,69
+Cardinals,Busch Stadium,2005,112,Missouri,St. Louis,71.5
+Cardinals,Busch Stadium,2007,73,Missouri,St. Louis,71.6
+Cardinals,Busch Stadium,2008,94,Missouri,St. Louis,68.7
+Cardinals,Busch Stadium,2009,75,Missouri,St. Louis,68.5
+Cardinals,Busch Stadium,2010,76,Missouri,St. Louis,72.7
+Cardinals,Busch Stadium,2011,77,Missouri,St. Louis,71.1
+Cardinals,Busch Stadium,2012,91,Missouri,St. Louis,72.4
+Cardinals,Busch Stadium,2013,83,Missouri,St. Louis,69.4
+Cardinals,Busch Stadium,2014,92,Missouri,St. Louis,69.5
+Cardinals,Busch Stadium,2015,84,Missouri,St. Louis,71
+Cardinals,Busch Stadium,2016,91,Missouri,St. Louis,72
+Cardinals,Busch Stadium,2017,88,Missouri,St. Louis,71.2
+Cardinals,Busch Stadium,2018,84,Missouri,St. Louis,71.9
+Cardinals,Busch Stadium,2019,87,Missouri,St. Louis,71.5
+Cardinals,Busch Stadium,2020,98,Missouri,St. Louis,69.5
+Cardinals,Busch Stadium,2021,75,Missouri,St. Louis,70.6
+Cardinals,Busch Stadium,2022,93,Missouri,St. Louis,71
+Mets,Shea Stadium,1999,88,New York,New York City,68.6
+Mets,Shea Stadium,2000,85,New York,New York City,65.9
+Mets,Shea Stadium,2001,89,New York,New York City,67.8
+Mets,Shea Stadium,2002,98,New York,New York City,68.5
+Mets,Shea Stadium,2003,85,New York,New York City,66.2
+Mets,Shea Stadium,2004,85,New York,New York City,67.8
+Mets,Shea Stadium,2005,91,New York,New York City,69.2
+Mets,Shea Stadium,2006,87,New York,New York City,68.2
+Mets,Shea Stadium,2007,94,New York,New York City,67.6
+Mets,Shea Stadium,2008,111,New York,New York City,68.1
+Mets,Citi Field,2010,76,New York,New York City,71
+Mets,Citi Field,2011,77,New York,New York City,69.5
+Mets,Citi Field,2012,108,New York,New York City,69.3
+Mets,Citi Field,2013,110,New York,New York City,68
+Mets,Citi Field,2014,92,New York,New York City,67.8
+Mets,Citi Field,2015,106,New York,New York City,70
+Mets,Citi Field,2016,113,New York,New York City,69.5
+Mets,Citi Field,2017,81,New York,New York City,68.5
+Mets,Citi Field,2018,102,New York,New York City,69
+Mets,Citi Field,2019,107,New York,New York City,69.1
+Mets,Citi Field,2020,114,New York,New York City,68.4
+Mets,Citi Field,2021,91,New York,New York City,69.1
+Mets,Citi Field,2022,81,New York,New York City,69.3
+Yankees,Yankee Stadium,1999,84,New York,New York City,68.6
+Yankees,Yankee Stadium,2000,113,New York,New York City,65.9
+Yankees,Yankee Stadium,2001,131,New York,New York City,67.8
+Yankees,Yankee Stadium,2002,111,New York,New York City,68.5
+Yankees,Yankee Stadium,2003,96,New York,New York City,66.2
+Yankees,Yankee Stadium,2004,104,New York,New York City,67.8
+Yankees,Yankee Stadium,2005,111,New York,New York City,69.2
+Yankees,Yankee Stadium,2006,110,New York,New York City,68.2
+Yankees,Yankee Stadium,2007,109,New York,New York City,67.6
+Yankees,Yankee Stadium,2008,103,New York,New York City,68.1
+Yankees,Yankee Stadium,2010,138,New York,New York City,71
+Yankees,Yankee Stadium,2011,128,New York,New York City,69.5
+Yankees,Yankee Stadium,2012,119,New York,New York City,69.3
+Yankees,Yankee Stadium,2013,115,New York,New York City,68
+Yankees,Yankee Stadium,2014,151,New York,New York City,67.8
+Yankees,Yankee Stadium,2015,125,New York,New York City,70
+Yankees,Yankee Stadium,2016,136,New York,New York City,69.5
+Yankees,Yankee Stadium,2017,126,New York,New York City,68.5
+Yankees,Yankee Stadium,2018,112,New York,New York City,69
+Yankees,Yankee Stadium,2019,90,New York,New York City,69.1
+Yankees,Yankee Stadium,2020,118,New York,New York City,68.4
+Yankees,Yankee Stadium,2021,116,New York,New York City,69.1
+Yankees,Yankee Stadium,2022,103,New York,New York City,69.3
+Reds,Cinergy Field,1999,113,Ohio,Cincinnati,69
+Reds,Cinergy Field,2000,104,Ohio,Cincinnati,67.2
+Reds,Cinergy Field,2001,96,Ohio,Cincinnati,68.1
+Reds,Cinergy Field,2002,136,Ohio,Cincinnati,69.6
+Reds,Great American Ball Park,2004,110,Ohio,Cincinnati,67.7
+Reds,Great American Ball Park,2005,122,Ohio,Cincinnati,68.9
+Reds,Great American Ball Park,2006,132,Ohio,Cincinnati,67.7
+Reds,Great American Ball Park,2007,133,Ohio,Cincinnati,69.6
+Reds,Great American Ball Park,2008,127,Ohio,Cincinnati,67.7
+Reds,Great American Ball Park,2009,118,Ohio,Cincinnati,66.9
+Reds,Great American Ball Park,2010,116,Ohio,Cincinnati,70.6
+Reds,Great American Ball Park,2011,132,Ohio,Cincinnati,68.9
+Reds,Great American Ball Park,2012,159,Ohio,Cincinnati,69.4
+Reds,Great American Ball Park,2013,124,Ohio,Cincinnati,67.6
+Reds,Great American Ball Park,2014,127,Ohio,Cincinnati,67.2
+Reds,Great American Ball Park,2015,110,Ohio,Cincinnati,68.3
+Reds,Great American Ball Park,2016,120,Ohio,Cincinnati,69.1
+Reds,Great American Ball Park,2017,111,Ohio,Cincinnati,68.1
+Reds,Great American Ball Park,2018,135,Ohio,Cincinnati,69.8
+Reds,Great American Ball Park,2019,112,Ohio,Cincinnati,69.7
+Reds,Great American Ball Park,2020,177,Ohio,Cincinnati,67.5
+Reds,Great American Ball Park,2021,132,Ohio,Cincinnati,68.2
+Reds,Great American Ball Park,2022,143,Ohio,Cincinnati,68.4
+Guardians,Progressive Field,1999,114,Ohio,Cleveland,65.1
+Guardians,Progressive Field,2000,115,Ohio,Cleveland,63
+Guardians,Progressive Field,2001,129,Ohio,Cleveland,64.2
+Guardians,Progressive Field,2002,97,Ohio,Cleveland,65.4
+Guardians,Progressive Field,2003,76,Ohio,Cleveland,63.3
+Guardians,Progressive Field,2004,74,Ohio,Cleveland,64
+Guardians,Progressive Field,2005,89,Ohio,Cleveland,65.6
+Guardians,Progressive Field,2006,91,Ohio,Cleveland,64.3
+Guardians,Progressive Field,2007,109,Ohio,Cleveland,64.9
+Guardians,Progressive Field,2008,85,Ohio,Cleveland,64.6
+Guardians,Progressive Field,2009,73,Ohio,Cleveland,63.5
+Guardians,Progressive Field,2010,90,Ohio,Cleveland,67.1
+Guardians,Progressive Field,2011,111,Ohio,Cleveland,65.4
+Guardians,Progressive Field,2012,90,Ohio,Cleveland,65.3
+Guardians,Progressive Field,2013,108,Ohio,Cleveland,64.1
+Guardians,Progressive Field,2014,102,Ohio,Cleveland,63.4
+Guardians,Progressive Field,2015,94,Ohio,Cleveland,65
+Guardians,Progressive Field,2016,120,Ohio,Cleveland,65.9
+Guardians,Progressive Field,2017,96,Ohio,Cleveland,65.6
+Guardians,Progressive Field,2018,100,Ohio,Cleveland,65.7
+Guardians,Progressive Field,2019,98,Ohio,Cleveland,65.9
+Guardians,Progressive Field,2020,95,Ohio,Cleveland,64.1
+Guardians,Progressive Field,2021,107,Ohio,Cleveland,65.9
+Guardians,Progressive Field,2022,91,Ohio,Cleveland,65.4
+Blue Jays,Rogers Centre,1999,95,Ontario,Toronto,51.1
+Blue Jays,Rogers Centre,2000,107,Ontario,Toronto,49.1
+Blue Jays,Rogers Centre,2001,92,Ontario,Toronto,51.2
+Blue Jays,Rogers Centre,2002,115,Ontario,Toronto,50.8
+Blue Jays,Rogers Centre,2003,112,Ontario,Toronto,47.9
+Blue Jays,Rogers Centre,2004,106,Ontario,Toronto,48.3
+Blue Jays,Rogers Centre,2005,124,Ontario,Toronto,49.9
+Blue Jays,Rogers Centre,2006,127,Ontario,Toronto,50.9
+Blue Jays,Rogers Centre,2007,117,Ontario,Toronto,49.5
+Blue Jays,Rogers Centre,2008,90,Ontario,Toronto,48.9
+Blue Jays,Rogers Centre,2009,110,Ontario,Toronto,48.4
+Blue Jays,Rogers Centre,2010,143,Ontario,Toronto,50.9
+Blue Jays,Rogers Centre,2011,113,Ontario,Toronto,50.2
+Blue Jays,Rogers Centre,2012,103,Ontario,Toronto,52.4
+Blue Jays,Rogers Centre,2013,121,Ontario,Toronto,48.9
+Blue Jays,Rogers Centre,2014,136,Ontario,Toronto,47
+Blue Jays,Rogers Centre,2015,105,Ontario,Toronto,48.7
+Blue Jays,Rogers Centre,2016,98,Ontario,Toronto,51.2
+Blue Jays,Rogers Centre,2017,99,Ontario,Toronto,49.6
+Blue Jays,Rogers Centre,2018,108,Ontario,Toronto,49.4
+Blue Jays,Rogers Centre,2019,124,Ontario,Toronto,48.2
+Blue Jays,Rogers Centre,2021,95,Ontario,Toronto,51.4
+Blue Jays,Rogers Centre,2022,117,Ontario,Toronto,49.7
+Phillies,Veterans Stadium,1999,98,Pennsylvania,Philadelphia,68.6
+Phillies,Veterans Stadium,2000,90,Pennsylvania,Philadelphia,66.2
+Phillies,Veterans Stadium,2001,94,Pennsylvania,Philadelphia,67.9
+Phillies,Veterans Stadium,2002,97,Pennsylvania,Philadelphia,69
+Phillies,Veterans Stadium,2003,88,Pennsylvania,Philadelphia,66.7
+Phillies,Citizens Bank Park,2005,125,Pennsylvania,Philadelphia,69.4
+Phillies,Citizens Bank Park,2006,118,Pennsylvania,Philadelphia,68.5
+Phillies,Citizens Bank Park,2007,147,Pennsylvania,Philadelphia,68.2
+Phillies,Citizens Bank Park,2008,102,Pennsylvania,Philadelphia,68.5
+Phillies,Citizens Bank Park,2009,109,Pennsylvania,Philadelphia,67.3
+Phillies,Citizens Bank Park,2010,115,Pennsylvania,Philadelphia,71.3
+Phillies,Citizens Bank Park,2011,97,Pennsylvania,Philadelphia,70.2
+Phillies,Citizens Bank Park,2012,113,Pennsylvania,Philadelphia,69.7
+Phillies,Citizens Bank Park,2013,146,Pennsylvania,Philadelphia,68.1
+Phillies,Citizens Bank Park,2014,117,Pennsylvania,Philadelphia,68.2
+Phillies,Citizens Bank Park,2015,108,Pennsylvania,Philadelphia,70.4
+Phillies,Citizens Bank Park,2016,114,Pennsylvania,Philadelphia,69.8
+Phillies,Citizens Bank Park,2017,130,Pennsylvania,Philadelphia,69.2
+Phillies,Citizens Bank Park,2018,118,Pennsylvania,Philadelphia,70
+Phillies,Citizens Bank Park,2019,118,Pennsylvania,Philadelphia,70.9
+Phillies,Citizens Bank Park,2020,127,Pennsylvania,Philadelphia,68.4
+Phillies,Citizens Bank Park,2021,97,Pennsylvania,Philadelphia,69.5
+Phillies,Citizens Bank Park,2022,120,Pennsylvania,Philadelphia,69.7
+Pirates,Three Rivers Stadium,1999,102,Pennsylvania,Pittsburgh,65.8
+Pirates,Three Rivers Stadium,2000,122,Pennsylvania,Pittsburgh,63.9
+Pirates,PNC Park,2002,97,Pennsylvania,Pittsburgh,66
+Pirates,PNC Park,2003,86,Pennsylvania,Pittsburgh,64
+Pirates,PNC Park,2004,84,Pennsylvania,Pittsburgh,64.7
+Pirates,PNC Park,2005,84,Pennsylvania,Pittsburgh,66.1
+Pirates,PNC Park,2006,78,Pennsylvania,Pittsburgh,64.4
+Pirates,PNC Park,2007,80,Pennsylvania,Pittsburgh,65
+Pirates,PNC Park,2008,85,Pennsylvania,Pittsburgh,64.4
+Pirates,PNC Park,2009,97,Pennsylvania,Pittsburgh,64
+Pirates,PNC Park,2010,78,Pennsylvania,Pittsburgh,67.1
+Pirates,PNC Park,2011,83,Pennsylvania,Pittsburgh,66.5
+Pirates,PNC Park,2012,65,Pennsylvania,Pittsburgh,66.3
+Pirates,PNC Park,2013,70,Pennsylvania,Pittsburgh,64.8
+Pirates,PNC Park,2014,72,Pennsylvania,Pittsburgh,64.4
+Pirates,PNC Park,2015,103,Pennsylvania,Pittsburgh,66.1
+Pirates,PNC Park,2016,78,Pennsylvania,Pittsburgh,66.5
+Pirates,PNC Park,2017,85,Pennsylvania,Pittsburgh,65.4
+Pirates,PNC Park,2018,84,Pennsylvania,Pittsburgh,66.2
+Pirates,PNC Park,2019,86,Pennsylvania,Pittsburgh,66.4
+Pirates,PNC Park,2020,87,Pennsylvania,Pittsburgh,64.8
+Pirates,PNC Park,2021,79,Pennsylvania,Pittsburgh,65.5
+Pirates,PNC Park,2022,94,Pennsylvania,Pittsburgh,65.3
+Expos,Olympic Stadium,1999,86,Quebec,Montreal,46.8
+Expos,Olympic Stadium,2000,112,Quebec,Montreal,43.6
+Expos,Olympic Stadium,2001,114,Quebec,Montreal,46.4
+Expos,Olympic Stadium,2002,106,Quebec,Montreal,45.6
+Expos,Olympic Stadium,2003,109,Quebec,Montreal,43.6
+Expos,Olympic Stadium,2004,114,Quebec,Montreal,43.3
+Rangers,Globe Life Park in Arlington,1999,102,Texas,Arlington,78.6
+Rangers,Globe Life Park in Arlington,2000,118,Texas,Arlington,78.9
+Rangers,Globe Life Park in Arlington,2001,92,Texas,Arlington,78.3
+Rangers,Globe Life Park in Arlington,2002,130,Texas,Arlington,77.7
+Rangers,Globe Life Park in Arlington,2003,119,Texas,Arlington,77.6
+Rangers,Globe Life Park in Arlington,2004,105,Texas,Arlington,76.2
+Rangers,Globe Life Park in Arlington,2005,125,Texas,Arlington,78.6
+Rangers,Globe Life Park in Arlington,2006,100,Texas,Arlington,80
+Rangers,Globe Life Park in Arlington,2007,100,Texas,Arlington,76.3
+Rangers,Globe Life Park in Arlington,2008,119,Texas,Arlington,77.8
+Rangers,Globe Life Park in Arlington,2009,118,Texas,Arlington,77.5
+Rangers,Globe Life Park in Arlington,2010,110,Texas,Arlington,79.8
+Rangers,Globe Life Park in Arlington,2011,141,Texas,Arlington,81.9
+Rangers,Globe Life Park in Arlington,2012,112,Texas,Arlington,80.1
+Rangers,Globe Life Park in Arlington,2013,92,Texas,Arlington,77.6
+Rangers,Globe Life Park in Arlington,2014,91,Texas,Arlington,77.5
+Rangers,Globe Life Park in Arlington,2015,99,Texas,Arlington,78.8
+Rangers,Globe Life Park in Arlington,2016,109,Texas,Arlington,78.3
+Rangers,Globe Life Park in Arlington,2017,111,Texas,Arlington,77.8
+Rangers,Globe Life Park in Arlington,2018,127,Texas,Arlington,78.9
+Rangers,Globe Life Park in Arlington,2019,103,Texas,Arlington,78.5
+Rangers,Globe Life Field,2021,95,Texas,Arlington,76.4
+Rangers,Globe Life Field,2022,114,Texas,Arlington,80.9
+Astros,Astrodome,1999,69,Texas,Houston,77.9
+Astros,Minute Maid Park,2001,110,Texas,Houston,77
+Astros,Minute Maid Park,2002,99,Texas,Houston,77.7
+Astros,Minute Maid Park,2003,114,Texas,Houston,77.3
+Astros,Minute Maid Park,2004,102,Texas,Houston,76.5
+Astros,Minute Maid Park,2005,119,Texas,Houston,78
+Astros,Minute Maid Park,2006,116,Texas,Houston,78.4
+Astros,Minute Maid Park,2007,104,Texas,Houston,76.6
+Astros,Minute Maid Park,2008,115,Texas,Houston,77.3
+Astros,Minute Maid Park,2009,100,Texas,Houston,77.9
+Astros,Minute Maid Park,2010,117,Texas,Houston,79.6
+Astros,Minute Maid Park,2011,110,Texas,Houston,81.4
+Astros,Minute Maid Park,2012,94,Texas,Houston,79
+Astros,Minute Maid Park,2013,113,Texas,Houston,78.1
+Astros,Minute Maid Park,2014,114,Texas,Houston,76.6
+Astros,Minute Maid Park,2015,123,Texas,Houston,78.6
+Astros,Minute Maid Park,2016,82,Texas,Houston,77.8
+Astros,Minute Maid Park,2017,107,Texas,Houston,76.9
+Astros,Minute Maid Park,2018,107,Texas,Houston,78.3
+Astros,Minute Maid Park,2019,121,Texas,Houston,77.8
+Astros,Minute Maid Park,2020,78,Texas,Houston,76.9
+Astros,Minute Maid Park,2021,101,Texas,Houston,76.6
+Astros,Minute Maid Park,2022,115,Texas,Houston,80
+Mariners,T-Mobile Park,2000,77,Washington,Seattle,55
+Mariners,T-Mobile Park,2001,82,Washington,Seattle,54.6
+Mariners,T-Mobile Park,2002,81,Washington,Seattle,54.8
+Mariners,T-Mobile Park,2003,106,Washington,Seattle,56.6
+Mariners,T-Mobile Park,2004,101,Washington,Seattle,57.2
+Mariners,T-Mobile Park,2005,78,Washington,Seattle,55.6
+Mariners,T-Mobile Park,2006,90,Washington,Seattle,56.3
+Mariners,T-Mobile Park,2007,99,Washington,Seattle,55
+Mariners,T-Mobile Park,2008,93,Washington,Seattle,53.8
+Mariners,T-Mobile Park,2009,90,Washington,Seattle,56.1
+Mariners,T-Mobile Park,2010,67,Washington,Seattle,53.8
+Mariners,T-Mobile Park,2011,103,Washington,Seattle,53.2
+Mariners,T-Mobile Park,2012,63,Washington,Seattle,55
+Mariners,T-Mobile Park,2013,88,Washington,Seattle,56.3
+Mariners,T-Mobile Park,2014,114,Washington,Seattle,57.5
+Mariners,T-Mobile Park,2015,91,Washington,Seattle,57.9
+Mariners,T-Mobile Park,2016,114,Washington,Seattle,57.1
+Mariners,T-Mobile Park,2017,92,Washington,Seattle,57.3
+Mariners,T-Mobile Park,2018,104,Washington,Seattle,57.1
+Mariners,T-Mobile Park,2019,94,Washington,Seattle,56.5
+Mariners,T-Mobile Park,2020,100,Washington,Seattle,56.6
+Mariners,T-Mobile Park,2021,94,Washington,Seattle,57.3
+Mariners,T-Mobile Park,2022,102,Washington,Seattle,56.2
+Nationals,Robert F. Kennedy Memorial Stadium,2006,81,"Washington, D.C.","Washington, D.C.",69.9
+Nationals,Robert F. Kennedy Memorial Stadium,2007,71,"Washington, D.C.","Washington, D.C.",70
+Nationals,Nationals Park,2009,92,"Washington, D.C.","Washington, D.C.",69.1
+Nationals,Nationals Park,2010,102,"Washington, D.C.","Washington, D.C.",72.5
+Nationals,Nationals Park,2011,111,"Washington, D.C.","Washington, D.C.",71.7
+Nationals,Nationals Park,2012,101,"Washington, D.C.","Washington, D.C.",71.2
+Nationals,Nationals Park,2013,78,"Washington, D.C.","Washington, D.C.",69.3
+Nationals,Nationals Park,2014,70,"Washington, D.C.","Washington, D.C.",69.3
+Nationals,Nationals Park,2015,106,"Washington, D.C.","Washington, D.C.",71.2
+Nationals,Nationals Park,2016,103,"Washington, D.C.","Washington, D.C.",70.8
+Nationals,Nationals Park,2017,102,"Washington, D.C.","Washington, D.C.",70.3
+Nationals,Nationals Park,2018,120,"Washington, D.C.","Washington, D.C.",71.1
+Nationals,Nationals Park,2019,121,"Washington, D.C.","Washington, D.C.",72.3
+Nationals,Nationals Park,2020,87,"Washington, D.C.","Washington, D.C.",69.4
+Nationals,Nationals Park,2021,110,"Washington, D.C.","Washington, D.C.",70.5
+Nationals,Nationals Park,2022,114,"Washington, D.C.","Washington, D.C.",70.1
+Brewers,Milwaukee County Stadium,1999,101,Wisconsin,Milwaukee,63.2
+Brewers,Milwaukee County Stadium,2000,74,Wisconsin,Milwaukee,61.5
+Brewers,American Family Field,2002,96,Wisconsin,Milwaukee,62.8
+Brewers,American Family Field,2003,134,Wisconsin,Milwaukee,60.9
+Brewers,American Family Field,2004,94,Wisconsin,Milwaukee,60.8
+Brewers,American Family Field,2005,112,Wisconsin,Milwaukee,64.1
+Brewers,American Family Field,2006,105,Wisconsin,Milwaukee,62.9
+Brewers,American Family Field,2007,112,Wisconsin,Milwaukee,62.9
+Brewers,American Family Field,2008,87,Wisconsin,Milwaukee,61.6
+Brewers,American Family Field,2009,106,Wisconsin,Milwaukee,60.6
+Brewers,American Family Field,2010,123,Wisconsin,Milwaukee,64.7
+Brewers,American Family Field,2011,111,Wisconsin,Milwaukee,61.7
+Brewers,American Family Field,2012,158,Wisconsin,Milwaukee,64.4
+Brewers,American Family Field,2013,120,Wisconsin,Milwaukee,61.3
+Brewers,American Family Field,2014,119,Wisconsin,Milwaukee,60.4
+Brewers,American Family Field,2015,134,Wisconsin,Milwaukee,61.7
+Brewers,American Family Field,2016,113,Wisconsin,Milwaukee,63.5
+Brewers,American Family Field,2017,109,Wisconsin,Milwaukee,62.6
+Brewers,American Family Field,2018,108,Wisconsin,Milwaukee,62.1
+Brewers,American Family Field,2019,105,Wisconsin,Milwaukee,62.2
+Brewers,American Family Field,2020,113,Wisconsin,Milwaukee,62.6
+Brewers,American Family Field,2021,103,Wisconsin,Milwaukee,64.7
+Brewers,American Family Field,2022,117,Wisconsin,Milwaukee,63
