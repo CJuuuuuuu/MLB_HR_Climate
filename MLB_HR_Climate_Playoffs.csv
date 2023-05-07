@@ -1,0 +1,702 @@
+Team,Venue,State,County,Year,Week,Playoffs,HR,Fahrenheit,Feet
+D-backs,Chase Field,Arizona,Phoenix,1999,27,1,94,80.6,1059
+D-backs,Chase Field,Arizona,Phoenix,2000,26,0,87,84.3,1059
+D-backs,Chase Field,Arizona,Phoenix,2001,27,1,127,83.8,1059
+D-backs,Chase Field,Arizona,Phoenix,2002,26,1,94,83.7,1059
+D-backs,Chase Field,Arizona,Phoenix,2003,26,0,114,82.9,1059
+D-backs,Chase Field,Arizona,Phoenix,2004,27,0,122,82.5,1059
+D-backs,Chase Field,Arizona,Phoenix,2005,27,0,104,82.4,1059
+D-backs,Chase Field,Arizona,Phoenix,2006,26,0,121,83.5,1059
+D-backs,Chase Field,Arizona,Phoenix,2007,26,1,106,83.8,1059
+D-backs,Chase Field,Arizona,Phoenix,2008,27,0,103,82.7,1059
+D-backs,Chase Field,Arizona,Phoenix,2009,27,0,102,83.5,1059
+D-backs,Chase Field,Arizona,Phoenix,2010,27,0,112,82.1,1059
+D-backs,Chase Field,Arizona,Phoenix,2011,26,1,113,83.1,1059
+D-backs,Chase Field,Arizona,Phoenix,2012,27,0,119,83.7,1059
+D-backs,Chase Field,Arizona,Phoenix,2013,26,0,97,83.5,1059
+D-backs,Chase Field,Arizona,Phoenix,2014,27,0,111,82.8,1059
+D-backs,Chase Field,Arizona,Phoenix,2015,27,0,86,82.9,1059
+D-backs,Chase Field,Arizona,Phoenix,2016,27,0,124,83.1,1059
+D-backs,Chase Field,Arizona,Phoenix,2017,26,1,123,83.7,1059
+D-backs,Chase Field,Arizona,Phoenix,2018,26,0,95,84.6,1059
+D-backs,Chase Field,Arizona,Phoenix,2019,27,0,94,82.7,1059
+D-backs,Chase Field,Arizona,Phoenix,2020,10,0,87,85.4,1059
+D-backs,Chase Field,Arizona,Phoenix,2021,27,0,85,83.8,1059
+D-backs,Chase Field,Arizona,Phoenix,2022,27,0,73,83.9,1059
+Angels,Angel Stadium,California,Anaheim,1999,27,0,113,66.9,160
+Angels,Angel Stadium,California,Anaheim,2000,26,0,109,70,160
+Angels,Angel Stadium,California,Anaheim,2001,27,0,107,69.6,160
+Angels,Angel Stadium,California,Anaheim,2002,26,1,81,69.1,160
+Angels,Angel Stadium,California,Anaheim,2003,26,0,83,69.3,160
+Angels,Angel Stadium,California,Anaheim,2004,27,1,103,69.8,160
+Angels,Angel Stadium,California,Anaheim,2005,27,1,89,68.2,160
+Angels,Angel Stadium,California,Anaheim,2006,26,0,81,70.2,160
+Angels,Angel Stadium,California,Anaheim,2007,26,1,85,69.9,160
+Angels,Angel Stadium,California,Anaheim,2008,27,1,98,70.4,160
+Angels,Angel Stadium,California,Anaheim,2009,27,1,117,70.1,160
+Angels,Angel Stadium,California,Anaheim,2010,27,0,79,67.4,160
+Angels,Angel Stadium,California,Anaheim,2011,26,0,81,68.2,160
+Angels,Angel Stadium,California,Anaheim,2012,27,0,80,70.8,160
+Angels,Angel Stadium,California,Anaheim,2013,26,0,89,70.9,160
+Angels,Angel Stadium,California,Anaheim,2014,27,1,80,71.3,160
+Angels,Angel Stadium,California,Anaheim,2015,27,0,96,70.3,160
+Angels,Angel Stadium,California,Anaheim,2016,27,0,98,70.7,160
+Angels,Angel Stadium,California,Anaheim,2017,26,0,96,71.2,160
+Angels,Angel Stadium,California,Anaheim,2018,26,0,109,71.1,160
+Angels,Angel Stadium,California,Anaheim,2019,27,0,101,68.9,160
+Angels,Angel Stadium,California,Anaheim,2020,10,0,117,70.9,160
+Angels,Angel Stadium,California,Anaheim,2021,27,0,117,71.7,160
+Angels,Angel Stadium,California,Anaheim,2022,27,0,126,72.1,160
+Dodgers,Dodger Stadium,California,Los Angeles,1999,27,0,108,66.9,330
+Dodgers,Dodger Stadium,California,Los Angeles,2000,26,0,99,70,330
+Dodgers,Dodger Stadium,California,Los Angeles,2001,27,0,95,69.6,330
+Dodgers,Dodger Stadium,California,Los Angeles,2002,26,0,103,69.1,330
+Dodgers,Dodger Stadium,California,Los Angeles,2003,26,0,132,69.3,330
+Dodgers,Dodger Stadium,California,Los Angeles,2004,27,1,100,69.8,330
+Dodgers,Dodger Stadium,California,Los Angeles,2005,27,0,107,68.2,330
+Dodgers,Dodger Stadium,California,Los Angeles,2006,26,1,121,70.2,330
+Dodgers,Dodger Stadium,California,Los Angeles,2007,26,0,102,69.9,330
+Dodgers,Dodger Stadium,California,Los Angeles,2008,27,1,99,70.4,330
+Dodgers,Dodger Stadium,California,Los Angeles,2009,27,1,88,70.1,330
+Dodgers,Dodger Stadium,California,Los Angeles,2010,27,0,102,67.4,330
+Dodgers,Dodger Stadium,California,Los Angeles,2011,26,0,90,68.2,330
+Dodgers,Dodger Stadium,California,Los Angeles,2012,27,0,106,70.8,330
+Dodgers,Dodger Stadium,California,Los Angeles,2013,26,1,106,70.9,330
+Dodgers,Dodger Stadium,California,Los Angeles,2014,27,1,136,71.3,330
+Dodgers,Dodger Stadium,California,Los Angeles,2015,27,1,102,70.3,330
+Dodgers,Dodger Stadium,California,Los Angeles,2016,27,1,97,70.7,330
+Dodgers,Dodger Stadium,California,Los Angeles,2017,26,1,104,71.2,330
+Dodgers,Dodger Stadium,California,Los Angeles,2018,26,1,110,71.1,330
+Dodgers,Dodger Stadium,California,Los Angeles,2019,27,1,115,68.9,330
+Dodgers,Dodger Stadium,California,Los Angeles,2020,10,1,115,70.9,330
+Dodgers,Dodger Stadium,California,Los Angeles,2021,27,1,139,71.7,330
+Dodgers,Dodger Stadium,California,Los Angeles,2022,27,1,125,72.1,330
+Athletics,Oakland Coliseum,California,Oakland,1999,27,0,88,63.8,19
+Athletics,Oakland Coliseum,California,Oakland,2000,26,1,96,65.8,19
+Athletics,Oakland Coliseum,California,Oakland,2001,27,1,94,66,19
+Athletics,Oakland Coliseum,California,Oakland,2002,26,1,118,65.3,19
+Athletics,Oakland Coliseum,California,Oakland,2003,26,1,101,65.7,19
+Athletics,Oakland Coliseum,California,Oakland,2004,27,0,109,66.3,19
+Athletics,Oakland Coliseum,California,Oakland,2005,27,0,91,65.1,19
+Athletics,Oakland Coliseum,California,Oakland,2006,26,1,87,66.2,19
+Athletics,Oakland Coliseum,California,Oakland,2007,26,0,78,65.4,19
+Athletics,Oakland Coliseum,California,Oakland,2008,27,0,92,65.9,19
+Athletics,Oakland Coliseum,California,Oakland,2009,27,0,86,66.1,19
+Athletics,Oakland Coliseum,California,Oakland,2010,27,0,71,63.8,19
+Athletics,Oakland Coliseum,California,Oakland,2011,26,0,78,64.1,19
+Athletics,Oakland Coliseum,California,Oakland,2012,27,1,83,65.5,19
+Athletics,Oakland Coliseum,California,Oakland,2013,26,1,82,66.7,19
+Athletics,Oakland Coliseum,California,Oakland,2014,27,1,97,67.5,19
+Athletics,Oakland Coliseum,California,Oakland,2015,27,0,80,66.9,19
+Athletics,Oakland Coliseum,California,Oakland,2016,27,0,72,66.6,19
+Athletics,Oakland Coliseum,California,Oakland,2017,26,0,106,67.4,19
+Athletics,Oakland Coliseum,California,Oakland,2018,26,1,79,65.7,19
+Athletics,Oakland Coliseum,California,Oakland,2019,27,1,88,66.5,19
+Athletics,Oakland Coliseum,California,Oakland,2020,10,1,70,68.5,19
+Athletics,Oakland Coliseum,California,Oakland,2021,27,0,84,67.6,19
+Athletics,Oakland Coliseum,California,Oakland,2022,27,0,71,67.5,19
+Padres,Qualcomm Stadium,California,San Diego,1999,27,0,87,67.6,17
+Padres,Qualcomm Stadium,California,San Diego,2000,26,0,95,70.9,17
+Padres,Qualcomm Stadium,California,San Diego,2001,27,0,86,70.3,17
+Padres,Qualcomm Stadium,California,San Diego,2002,26,0,77,69.7,17
+Padres,Qualcomm Stadium,California,San Diego,2003,26,0,84,69.8,17
+Padres,Petco Park,California,San Diego,2005,27,1,74,69.4,17
+Padres,Petco Park,California,San Diego,2006,26,1,96,71.3,17
+Padres,Petco Park,California,San Diego,2007,26,0,77,70.5,17
+Padres,Petco Park,California,San Diego,2008,27,0,71,70.8,17
+Padres,Petco Park,California,San Diego,2009,27,0,73,71,17
+Padres,Petco Park,California,San Diego,2010,27,0,88,68.1,17
+Padres,Petco Park,California,San Diego,2011,26,0,84,69,17
+Padres,Petco Park,California,San Diego,2012,27,0,62,71.2,17
+Padres,Petco Park,California,San Diego,2013,26,0,91,71.3,17
+Padres,Petco Park,California,San Diego,2014,27,0,81,72,17
+Padres,Petco Park,California,San Diego,2015,27,0,108,70.9,17
+Padres,Petco Park,California,San Diego,2016,27,0,91,71,17
+Padres,Petco Park,California,San Diego,2017,26,0,83,71.5,17
+Padres,Petco Park,California,San Diego,2018,26,0,92,72,17
+Padres,Petco Park,California,San Diego,2019,27,0,89,69.7,17
+Padres,Petco Park,California,San Diego,2020,10,1,101,72,17
+Padres,Petco Park,California,San Diego,2021,27,0,88,72,17
+Padres,Petco Park,California,San Diego,2022,27,1,95,72.2,17
+Giants,3Com Park at Candlestick Point,California,San Francisco,1999,27,0,96,58.5,3
+Giants,Oracle Park,California,San Francisco,2001,27,0,69,60.1,3
+Giants,Oracle Park,California,San Francisco,2002,26,1,59,59.6,3
+Giants,Oracle Park,California,San Francisco,2003,26,1,80,60.7,3
+Giants,Oracle Park,California,San Francisco,2004,27,0,85,61.4,3
+Giants,Oracle Park,California,San Francisco,2005,27,0,95,59.8,3
+Giants,Oracle Park,California,San Francisco,2006,26,0,70,60.3,3
+Giants,Oracle Park,California,San Francisco,2007,26,0,81,60.1,3
+Giants,Oracle Park,California,San Francisco,2008,27,0,94,60,3
+Giants,Oracle Park,California,San Francisco,2009,27,0,98,60.3,3
+Giants,Oracle Park,California,San Francisco,2010,27,1,87,58.8,3
+Giants,Oracle Park,California,San Francisco,2011,26,0,62,59,3
+Giants,Oracle Park,California,San Francisco,2012,27,1,56,59.1,3
+Giants,Oracle Park,California,San Francisco,2013,26,0,74,61.2,3
+Giants,Oracle Park,California,San Francisco,2014,27,1,69,62.5,3
+Giants,Oracle Park,California,San Francisco,2015,27,0,62,62.2,3
+Giants,Oracle Park,California,San Francisco,2016,27,1,67,61,3
+Giants,Oracle Park,California,San Francisco,2017,26,0,62,61.9,3
+Giants,Oracle Park,California,San Francisco,2018,26,0,76,60,3
+Giants,Oracle Park,California,San Francisco,2019,27,0,66,61.9,3
+Giants,Oracle Park,California,San Francisco,2020,10,0,99,62.9,3
+Giants,Oracle Park,California,San Francisco,2021,27,1,78,60.4,3
+Giants,Oracle Park,California,San Francisco,2022,27,0,76,61.3,3
+Rockies,Coors Field,Colorado,Denver,1999,27,0,174,61.5,5200
+Rockies,Coors Field,Colorado,Denver,2000,26,0,163,65.4,5200
+Rockies,Coors Field,Colorado,Denver,2001,27,0,140,65.1,5200
+Rockies,Coors Field,Colorado,Denver,2002,26,0,153,65.2,5200
+Rockies,Coors Field,Colorado,Denver,2003,26,0,129,64,5200
+Rockies,Coors Field,Colorado,Denver,2004,27,0,115,62.3,5200
+Rockies,Coors Field,Colorado,Denver,2005,27,0,96,63.7,5200
+Rockies,Coors Field,Colorado,Denver,2006,26,0,114,64.8,5200
+Rockies,Coors Field,Colorado,Denver,2007,26,1,124,64.5,5200
+Rockies,Coors Field,Colorado,Denver,2008,27,0,122,62.8,5200
+Rockies,Coors Field,Colorado,Denver,2009,27,1,104,61.9,5200
+Rockies,Coors Field,Colorado,Denver,2010,27,0,144,64,5200
+Rockies,Coors Field,Colorado,Denver,2011,26,0,133,63.7,5200
+Rockies,Coors Field,Colorado,Denver,2012,27,0,135,67.1,5200
+Rockies,Coors Field,Colorado,Denver,2013,26,0,114,63.8,5200
+Rockies,Coors Field,Colorado,Denver,2014,27,0,128,63.3,5200
+Rockies,Coors Field,Colorado,Denver,2015,27,0,119,63.9,5200
+Rockies,Coors Field,Colorado,Denver,2016,27,0,122,64,5200
+Rockies,Coors Field,Colorado,Denver,2017,26,1,117,64.1,5200
+Rockies,Coors Field,Colorado,Denver,2018,26,1,127,65.7,5200
+Rockies,Coors Field,Colorado,Denver,2019,27,0,118,64.1,5200
+Rockies,Coors Field,Colorado,Denver,2020,10,0,103,65.3,5200
+Rockies,Coors Field,Colorado,Denver,2021,27,0,111,64.9,5200
+Rockies,Coors Field,Colorado,Denver,2022,27,0,143,65.5,5200
+Marlins,Hard Rock Stadium,Florida,Miami,1999,27,0,74,80.2,0
+Marlins,Hard Rock Stadium,Florida,Miami,2000,26,0,87,80.2,0
+Marlins,Hard Rock Stadium,Florida,Miami,2001,27,0,98,79.7,0
+Marlins,Hard Rock Stadium,Florida,Miami,2002,26,0,70,80.7,0
+Marlins,Hard Rock Stadium,Florida,Miami,2003,26,1,71,80.7,0
+Marlins,Hard Rock Stadium,Florida,Miami,2004,27,0,104,80.1,0
+Marlins,Hard Rock Stadium,Florida,Miami,2005,27,0,83,80.3,0
+Marlins,Hard Rock Stadium,Florida,Miami,2006,26,0,89,80.3,0
+Marlins,Hard Rock Stadium,Florida,Miami,2007,26,0,97,80.2,0
+Marlins,Hard Rock Stadium,Florida,Miami,2008,27,0,87,80.4,0
+Marlins,Hard Rock Stadium,Florida,Miami,2009,27,0,104,80.9,0
+Marlins,Hard Rock Stadium,Florida,Miami,2010,27,0,80,81.5,0
+Marlins,Hard Rock Stadium,Florida,Miami,2011,26,0,97,81.6,0
+Marlins,loanDepot park,Florida,Miami,2013,26,0,66,80.8,0
+Marlins,loanDepot park,Florida,Miami,2014,27,0,77,81,0
+Marlins,loanDepot park,Florida,Miami,2015,27,0,72,82.1,0
+Marlins,loanDepot park,Florida,Miami,2016,27,0,80,81.7,0
+Marlins,loanDepot park,Florida,Miami,2017,26,0,83,81.8,0
+Marlins,loanDepot park,Florida,Miami,2018,26,0,65,81.3,0
+Marlins,loanDepot park,Florida,Miami,2019,27,0,80,82.2,0
+Marlins,loanDepot park,Florida,Miami,2020,10,1,92,82,0
+Marlins,loanDepot park,Florida,Miami,2021,27,0,81,80.8,0
+Marlins,loanDepot park,Florida,Miami,2022,27,0,97,81.2,0
+Rays,Tropicana Field,Florida,St. Petersburg,1999,27,0,95,79.7,26
+Rays,Tropicana Field,Florida,St. Petersburg,2000,26,0,104,79.6,26
+Rays,Tropicana Field,Florida,St. Petersburg,2001,27,0,90,79,26
+Rays,Tropicana Field,Florida,St. Petersburg,2002,26,0,85,80.3,26
+Rays,Tropicana Field,Florida,St. Petersburg,2003,26,0,81,79.6,26
+Rays,Tropicana Field,Florida,St. Petersburg,2004,27,0,99,79.4,26
+Rays,Tropicana Field,Florida,St. Petersburg,2005,27,0,84,79.6,26
+Rays,Tropicana Field,Florida,St. Petersburg,2006,26,0,114,79.9,26
+Rays,Tropicana Field,Florida,St. Petersburg,2007,26,0,95,79.5,26
+Rays,Tropicana Field,Florida,St. Petersburg,2008,27,1,88,79.4,26
+Rays,Tropicana Field,Florida,St. Petersburg,2009,27,0,101,80.2,26
+Rays,Tropicana Field,Florida,St. Petersburg,2010,27,1,95,81.2,26
+Rays,Tropicana Field,Florida,St. Petersburg,2011,26,1,95,80.8,26
+Rays,Tropicana Field,Florida,St. Petersburg,2012,27,0,78,80.1,26
+Rays,Tropicana Field,Florida,St. Petersburg,2013,26,1,96,80.2,26
+Rays,Tropicana Field,Florida,St. Petersburg,2014,27,0,80,80,26
+Rays,Tropicana Field,Florida,St. Petersburg,2015,27,0,103,81.3,26
+Rays,Tropicana Field,Florida,St. Petersburg,2016,27,0,92,81.1,26
+Rays,Tropicana Field,Florida,St. Petersburg,2017,26,0,88,81.2,26
+Rays,Tropicana Field,Florida,St. Petersburg,2018,26,0,87,80.9,26
+Rays,Tropicana Field,Florida,St. Petersburg,2019,27,1,92,81.5,26
+Rays,Tropicana Field,Florida,St. Petersburg,2020,10,1,87,81.2,26
+Rays,Tropicana Field,Florida,St. Petersburg,2021,27,1,81,80.2,26
+Rays,Tropicana Field,Florida,St. Petersburg,2022,27,1,97,81.5,26
+Braves,Turner Field,Georgia,Cumberland,1999,27,1,91,72.5,1073
+Braves,Turner Field,Georgia,Cumberland,2000,26,1,95,72,1073
+Braves,Turner Field,Georgia,Cumberland,2001,27,1,104,71.5,1073
+Braves,Turner Field,Georgia,Cumberland,2002,26,1,108,73.3,1073
+Braves,Turner Field,Georgia,Cumberland,2003,26,1,93,71.3,1073
+Braves,Turner Field,Georgia,Cumberland,2004,27,1,125,71.8,1073
+Braves,Turner Field,Georgia,Cumberland,2005,27,1,87,71.9,1073
+Braves,Turner Field,Georgia,Cumberland,2006,26,0,95,73.2,1073
+Braves,Turner Field,Georgia,Cumberland,2007,26,0,98,73.1,1073
+Braves,Turner Field,Georgia,Cumberland,2008,27,0,99,72.1,1073
+Braves,Turner Field,Georgia,Cumberland,2009,27,0,83,71.7,1073
+Braves,Turner Field,Georgia,Cumberland,2010,27,1,99,75.1,1073
+Braves,Turner Field,Georgia,Cumberland,2011,26,0,93,73.7,1073
+Braves,Turner Field,Georgia,Cumberland,2012,27,1,86,73.4,1073
+Braves,Turner Field,Georgia,Cumberland,2013,26,1,90,70.9,1073
+Braves,Turner Field,Georgia,Cumberland,2014,27,0,114,72.1,1073
+Braves,Turner Field,Georgia,Cumberland,2015,27,0,70,73.3,1073
+Braves,Turner Field,Georgia,Cumberland,2016,27,0,71,74.3,1073
+Braves,Truist Park,Georgia,Cumberland,2018,26,1,80,73.8,1073
+Braves,Truist Park,Georgia,Cumberland,2019,27,1,103,74.8,1073
+Braves,Truist Park,Georgia,Cumberland,2020,10,1,101,71.7,1073
+Braves,Truist Park,Georgia,Cumberland,2021,27,1,105,71.7,1073
+Braves,Truist Park,Georgia,Cumberland,2022,27,1,95,73,1073
+Cubs,Wrigley Field,Illinois,Chicago,1999,27,0,120,65.7,594
+Cubs,Wrigley Field,Illinois,Chicago,2000,26,0,88,64.2,594
+Cubs,Wrigley Field,Illinois,Chicago,2001,27,0,95,65.2,594
+Cubs,Wrigley Field,Illinois,Chicago,2002,26,0,126,65.4,594
+Cubs,Wrigley Field,Illinois,Chicago,2003,26,1,103,63.1,594
+Cubs,Wrigley Field,Illinois,Chicago,2004,27,0,138,63.9,594
+Cubs,Wrigley Field,Illinois,Chicago,2005,27,0,100,66.9,594
+Cubs,Wrigley Field,Illinois,Chicago,2006,26,0,118,65.1,594
+Cubs,Wrigley Field,Illinois,Chicago,2007,26,1,110,65.9,594
+Cubs,Wrigley Field,Illinois,Chicago,2008,27,1,124,64.4,594
+Cubs,Wrigley Field,Illinois,Chicago,2009,27,0,100,63,594
+Cubs,Wrigley Field,Illinois,Chicago,2010,27,0,106,67.4,594
+Cubs,Wrigley Field,Illinois,Chicago,2011,26,0,98,64.6,594
+Cubs,Wrigley Field,Illinois,Chicago,2012,27,0,91,67,594
+Cubs,Wrigley Field,Illinois,Chicago,2013,26,0,108,64.4,594
+Cubs,Wrigley Field,Illinois,Chicago,2014,27,0,89,64,594
+Cubs,Wrigley Field,Illinois,Chicago,2015,27,1,133,65.1,594
+Cubs,Wrigley Field,Illinois,Chicago,2016,27,1,85,66.3,594
+Cubs,Wrigley Field,Illinois,Chicago,2017,26,1,98,65.3,594
+Cubs,Wrigley Field,Illinois,Chicago,2018,26,1,97,65.6,594
+Cubs,Wrigley Field,Illinois,Chicago,2019,27,0,92,65.2,594
+Cubs,Wrigley Field,Illinois,Chicago,2020,10,1,86,65.1,594
+Cubs,Wrigley Field,Illinois,Chicago,2021,27,0,116,66.7,594
+Cubs,Wrigley Field,Illinois,Chicago,2022,27,0,87,65.4,594
+White Sox,Guaranteed Rate Field,Illinois,Chicago,1999,27,0,98,65.7,594
+White Sox,Guaranteed Rate Field,Illinois,Chicago,2000,26,1,125,64.2,594
+White Sox,Guaranteed Rate Field,Illinois,Chicago,2001,27,0,122,65.2,594
+White Sox,Guaranteed Rate Field,Illinois,Chicago,2002,26,0,120,65.4,594
+White Sox,Guaranteed Rate Field,Illinois,Chicago,2003,26,0,132,63.1,594
+White Sox,Guaranteed Rate Field,Illinois,Chicago,2004,27,0,136,63.9,594
+White Sox,Guaranteed Rate Field,Illinois,Chicago,2005,27,1,141,66.9,594
+White Sox,Guaranteed Rate Field,Illinois,Chicago,2006,26,0,124,65.1,594
+White Sox,Guaranteed Rate Field,Illinois,Chicago,2007,26,0,123,65.9,594
+White Sox,Guaranteed Rate Field,Illinois,Chicago,2008,27,1,128,64.4,594
+White Sox,Guaranteed Rate Field,Illinois,Chicago,2009,27,0,118,63,594
+White Sox,Guaranteed Rate Field,Illinois,Chicago,2010,27,0,149,67.4,594
+White Sox,Guaranteed Rate Field,Illinois,Chicago,2011,26,0,120,64.6,594
+White Sox,Guaranteed Rate Field,Illinois,Chicago,2012,27,0,129,67,594
+White Sox,Guaranteed Rate Field,Illinois,Chicago,2013,26,0,124,64.4,594
+White Sox,Guaranteed Rate Field,Illinois,Chicago,2014,27,0,104,64,594
+White Sox,Guaranteed Rate Field,Illinois,Chicago,2015,27,0,107,65.1,594
+White Sox,Guaranteed Rate Field,Illinois,Chicago,2016,27,0,119,66.3,594
+White Sox,Guaranteed Rate Field,Illinois,Chicago,2017,26,0,114,65.3,594
+White Sox,Guaranteed Rate Field,Illinois,Chicago,2018,26,0,97,65.6,594
+White Sox,Guaranteed Rate Field,Illinois,Chicago,2019,27,0,123,65.2,594
+White Sox,Guaranteed Rate Field,Illinois,Chicago,2020,10,1,110,65.1,594
+White Sox,Guaranteed Rate Field,Illinois,Chicago,2021,27,1,139,66.7,594
+White Sox,Guaranteed Rate Field,Illinois,Chicago,2022,27,0,123,65.4,594
+Orioles,Oriole Park at Camden Yards,Maryland,Baltimore,1999,27,0,98,68,33
+Orioles,Oriole Park at Camden Yards,Maryland,Baltimore,2000,26,0,109,66.3,33
+Orioles,Oriole Park at Camden Yards,Maryland,Baltimore,2001,27,0,85,67.3,33
+Orioles,Oriole Park at Camden Yards,Maryland,Baltimore,2002,26,0,121,69.1,33
+Orioles,Oriole Park at Camden Yards,Maryland,Baltimore,2003,26,0,104,66.6,33
+Orioles,Oriole Park at Camden Yards,Maryland,Baltimore,2004,27,0,105,68.6,33
+Orioles,Oriole Park at Camden Yards,Maryland,Baltimore,2005,27,0,94,68.8,33
+Orioles,Oriole Park at Camden Yards,Maryland,Baltimore,2006,26,0,124,68.4,33
+Orioles,Oriole Park at Camden Yards,Maryland,Baltimore,2007,26,0,118,68.1,33
+Orioles,Oriole Park at Camden Yards,Maryland,Baltimore,2008,27,0,134,67.8,33
+Orioles,Oriole Park at Camden Yards,Maryland,Baltimore,2009,27,0,121,67.2,33
+Orioles,Oriole Park at Camden Yards,Maryland,Baltimore,2010,27,0,117,70.7,33
+Orioles,Oriole Park at Camden Yards,Maryland,Baltimore,2011,26,0,116,69.9,33
+Orioles,Oriole Park at Camden Yards,Maryland,Baltimore,2012,27,1,130,69.4,33
+Orioles,Oriole Park at Camden Yards,Maryland,Baltimore,2013,26,0,128,67.6,33
+Orioles,Oriole Park at Camden Yards,Maryland,Baltimore,2014,27,1,102,66.9,33
+Orioles,Oriole Park at Camden Yards,Maryland,Baltimore,2015,27,0,136,69.2,33
+Orioles,Oriole Park at Camden Yards,Maryland,Baltimore,2016,27,1,100,68.7,33
+Orioles,Oriole Park at Camden Yards,Maryland,Baltimore,2017,26,0,121,68.3,33
+Orioles,Oriole Park at Camden Yards,Maryland,Baltimore,2018,26,0,116,69,33
+Orioles,Oriole Park at Camden Yards,Maryland,Baltimore,2019,27,0,120,69.9,33
+Orioles,Oriole Park at Camden Yards,Maryland,Baltimore,2020,10,0,95,68.1,33
+Orioles,Oriole Park at Camden Yards,Maryland,Baltimore,2021,27,0,153,69.1,33
+Orioles,Oriole Park at Camden Yards,Maryland,Baltimore,2022,27,0,77,68.7,33
+Red Sox,Fenway Park,Massachusetts,Boston,1999,27,1,81,64.6,20
+Red Sox,Fenway Park,Massachusetts,Boston,2000,26,0,74,61.7,20
+Red Sox,Fenway Park,Massachusetts,Boston,2001,27,0,97,63.8,20
+Red Sox,Fenway Park,Massachusetts,Boston,2002,26,0,82,64.1,20
+Red Sox,Fenway Park,Massachusetts,Boston,2003,26,1,85,62.2,20
+Red Sox,Fenway Park,Massachusetts,Boston,2004,27,1,96,62.8,20
+Red Sox,Fenway Park,Massachusetts,Boston,2005,27,1,92,63.7,20
+Red Sox,Fenway Park,Massachusetts,Boston,2006,26,0,72,63.3,20
+Red Sox,Fenway Park,Massachusetts,Boston,2007,26,1,84,63.3,20
+Red Sox,Fenway Park,Massachusetts,Boston,2008,27,1,86,63.3,20
+Red Sox,Fenway Park,Massachusetts,Boston,2009,27,1,106,62.4,20
+Red Sox,Fenway Park,Massachusetts,Boston,2010,27,0,83,66.2,20
+Red Sox,Fenway Park,Massachusetts,Boston,2011,26,0,86,64.4,20
+Red Sox,Fenway Park,Massachusetts,Boston,2012,27,0,102,64.8,20
+Red Sox,Fenway Park,Massachusetts,Boston,2013,26,1,84,64.2,20
+Red Sox,Fenway Park,Massachusetts,Boston,2014,27,0,73,63.4,20
+Red Sox,Fenway Park,Massachusetts,Boston,2015,27,0,101,64.9,20
+Red Sox,Fenway Park,Massachusetts,Boston,2016,27,1,104,64.9,20
+Red Sox,Fenway Park,Massachusetts,Boston,2017,26,1,82,64.2,20
+Red Sox,Fenway Park,Massachusetts,Boston,2018,26,1,94,65.1,20
+Red Sox,Fenway Park,Massachusetts,Boston,2019,27,0,88,64.3,20
+Red Sox,Fenway Park,Massachusetts,Boston,2020,10,0,90,64.3,20
+Red Sox,Fenway Park,Massachusetts,Boston,2021,27,1,94,65.3,20
+Red Sox,Fenway Park,Massachusetts,Boston,2022,27,0,118,65.7,20
+Tigers,Tiger Stadium,Michigan,Detroit,1999,27,0,130,65.3,596
+Tigers,Comerica Park,Michigan,Detroit,2001,27,0,70,64.4,596
+Tigers,Comerica Park,Michigan,Detroit,2002,26,0,71,64.9,596
+Tigers,Comerica Park,Michigan,Detroit,2003,26,0,84,62.4,596
+Tigers,Comerica Park,Michigan,Detroit,2004,27,0,86,63.6,596
+Tigers,Comerica Park,Michigan,Detroit,2005,27,0,89,65.7,596
+Tigers,Comerica Park,Michigan,Detroit,2006,26,1,79,64.6,596
+Tigers,Comerica Park,Michigan,Detroit,2007,26,0,115,64.7,596
+Tigers,Comerica Park,Michigan,Detroit,2008,27,0,120,64.2,596
+Tigers,Comerica Park,Michigan,Detroit,2009,27,0,99,62.8,596
+Tigers,Comerica Park,Michigan,Detroit,2010,27,0,86,66.6,596
+Tigers,Comerica Park,Michigan,Detroit,2011,26,1,101,64.8,596
+Tigers,Comerica Park,Michigan,Detroit,2012,27,1,100,66,596
+Tigers,Comerica Park,Michigan,Detroit,2013,26,1,105,63.9,596
+Tigers,Comerica Park,Michigan,Detroit,2014,27,1,102,63.2,596
+Tigers,Comerica Park,Michigan,Detroit,2015,27,0,81,64.8,596
+Tigers,Comerica Park,Michigan,Detroit,2016,27,0,116,65.5,596
+Tigers,Comerica Park,Michigan,Detroit,2017,26,0,110,65.1,596
+Tigers,Comerica Park,Michigan,Detroit,2018,26,0,83,65.4,596
+Tigers,Comerica Park,Michigan,Detroit,2019,27,0,98,64.9,596
+Tigers,Comerica Park,Michigan,Detroit,2020,10,0,91,64.5,596
+Tigers,Comerica Park,Michigan,Detroit,2021,27,0,69,66.4,596
+Tigers,Comerica Park,Michigan,Detroit,2022,27,0,77,65.7,596
+Twins,Hubert H. Humphrey Metrodome,Minnesota,Minneapolis,1999,27,0,92,63.2,840
+Twins,Hubert H. Humphrey Metrodome,Minnesota,Minneapolis,2000,26,0,83,62.3,840
+Twins,Hubert H. Humphrey Metrodome,Minnesota,Minneapolis,2001,27,0,96,63.2,840
+Twins,Hubert H. Humphrey Metrodome,Minnesota,Minneapolis,2002,26,1,73,62.4,840
+Twins,Hubert H. Humphrey Metrodome,Minnesota,Minneapolis,2003,26,1,99,62.6,840
+Twins,Hubert H. Humphrey Metrodome,Minnesota,Minneapolis,2004,27,1,92,61.4,840
+Twins,Hubert H. Humphrey Metrodome,Minnesota,Minneapolis,2005,27,0,96,64.5,840
+Twins,Hubert H. Humphrey Metrodome,Minnesota,Minneapolis,2006,26,1,85,64.2,840
+Twins,Hubert H. Humphrey Metrodome,Minnesota,Minneapolis,2007,26,0,75,64.2,840
+Twins,Hubert H. Humphrey Metrodome,Minnesota,Minneapolis,2008,27,0,92,61.6,840
+Twins,Hubert H. Humphrey Metrodome,Minnesota,Minneapolis,2009,27,1,115,61.7,840
+Twins,Target Field,Minnesota,Minneapolis,2011,26,0,85,62.8,840
+Twins,Target Field,Minnesota,Minneapolis,2012,27,0,100,65,840
+Twins,Target Field,Minnesota,Minneapolis,2013,26,0,81,61.7,840
+Twins,Target Field,Minnesota,Minneapolis,2014,27,0,94,61.3,840
+Twins,Target Field,Minnesota,Minneapolis,2015,27,0,103,63.4,840
+Twins,Target Field,Minnesota,Minneapolis,2016,27,0,100,63.8,840
+Twins,Target Field,Minnesota,Minneapolis,2017,26,1,110,62.8,840
+Twins,Target Field,Minnesota,Minneapolis,2018,26,0,94,62.9,840
+Twins,Target Field,Minnesota,Minneapolis,2019,27,1,86,61.7,840
+Twins,Target Field,Minnesota,Minneapolis,2020,10,1,79,62.8,840
+Twins,Target Field,Minnesota,Minneapolis,2021,27,0,99,64.7,840
+Twins,Target Field,Minnesota,Minneapolis,2022,27,0,89,62.9,840
+Royals,Kauffman Stadium,Missouri,Kansas City,1999,27,0,97,68.8,1026
+Royals,Kauffman Stadium,Missouri,Kansas City,2000,26,0,102,70.4,1026
+Royals,Kauffman Stadium,Missouri,Kansas City,2001,27,0,103,70.3,1026
+Royals,Kauffman Stadium,Missouri,Kansas City,2002,26,0,141,70.9,1026
+Royals,Kauffman Stadium,Missouri,Kansas City,2003,26,0,101,69.5,1026
+Royals,Kauffman Stadium,Missouri,Kansas City,2004,27,0,71,68.4,1026
+Royals,Kauffman Stadium,Missouri,Kansas City,2005,27,0,75,70.8,1026
+Royals,Kauffman Stadium,Missouri,Kansas City,2006,26,0,98,71.1,1026
+Royals,Kauffman Stadium,Missouri,Kansas City,2007,26,0,92,70.5,1026
+Royals,Kauffman Stadium,Missouri,Kansas City,2008,27,0,78,67.6,1026
+Royals,Kauffman Stadium,Missouri,Kansas City,2009,27,0,76,67.5,1026
+Royals,Kauffman Stadium,Missouri,Kansas City,2010,27,0,96,71.6,1026
+Royals,Kauffman Stadium,Missouri,Kansas City,2011,26,0,65,70,1026
+Royals,Kauffman Stadium,Missouri,Kansas City,2012,27,0,100,72.3,1026
+Royals,Kauffman Stadium,Missouri,Kansas City,2013,26,0,88,68.2,1026
+Royals,Kauffman Stadium,Missouri,Kansas City,2014,27,1,87,68.4,1026
+Royals,Kauffman Stadium,Missouri,Kansas City,2015,27,1,81,69.9,1026
+Royals,Kauffman Stadium,Missouri,Kansas City,2016,27,0,73,70.6,1026
+Royals,Kauffman Stadium,Missouri,Kansas City,2017,26,0,81,69.3,1026
+Royals,Kauffman Stadium,Missouri,Kansas City,2018,26,0,88,70.7,1026
+Royals,Kauffman Stadium,Missouri,Kansas City,2019,27,0,69,70,1026
+Royals,Kauffman Stadium,Missouri,Kansas City,2020,10,0,90,68.3,1026
+Royals,Kauffman Stadium,Missouri,Kansas City,2021,27,0,79,70,1026
+Royals,Kauffman Stadium,Missouri,Kansas City,2022,27,0,75,70.2,1026
+Cardinals,Busch Stadium,Missouri,St. Louis,1999,27,0,108,70.4,455
+Cardinals,Busch Stadium,Missouri,St. Louis,2000,26,1,131,69.9,455
+Cardinals,Busch Stadium,Missouri,St. Louis,2001,27,1,95,71,455
+Cardinals,Busch Stadium,Missouri,St. Louis,2002,26,1,105,71.1,455
+Cardinals,Busch Stadium,Missouri,St. Louis,2003,26,0,82,68.7,455
+Cardinals,Busch Stadium,Missouri,St. Louis,2004,27,1,85,69,455
+Cardinals,Busch Stadium,Missouri,St. Louis,2005,27,1,112,71.5,455
+Cardinals,Busch Stadium,Missouri,St. Louis,2007,26,0,73,71.6,455
+Cardinals,Busch Stadium,Missouri,St. Louis,2008,27,0,94,68.7,455
+Cardinals,Busch Stadium,Missouri,St. Louis,2009,27,1,75,68.5,455
+Cardinals,Busch Stadium,Missouri,St. Louis,2010,27,0,76,72.7,455
+Cardinals,Busch Stadium,Missouri,St. Louis,2011,26,1,77,71.1,455
+Cardinals,Busch Stadium,Missouri,St. Louis,2012,27,1,91,72.4,455
+Cardinals,Busch Stadium,Missouri,St. Louis,2013,26,1,83,69.4,455
+Cardinals,Busch Stadium,Missouri,St. Louis,2014,27,1,92,69.5,455
+Cardinals,Busch Stadium,Missouri,St. Louis,2015,27,1,84,71,455
+Cardinals,Busch Stadium,Missouri,St. Louis,2016,27,0,91,72,455
+Cardinals,Busch Stadium,Missouri,St. Louis,2017,26,0,88,71.2,455
+Cardinals,Busch Stadium,Missouri,St. Louis,2018,26,0,84,71.9,455
+Cardinals,Busch Stadium,Missouri,St. Louis,2019,27,1,87,71.5,455
+Cardinals,Busch Stadium,Missouri,St. Louis,2020,10,1,98,69.5,455
+Cardinals,Busch Stadium,Missouri,St. Louis,2021,27,1,75,70.6,455
+Cardinals,Busch Stadium,Missouri,St. Louis,2022,27,1,93,71,455
+Mets,Shea Stadium,New York,New York City,1999,27,1,88,68.6,13
+Mets,Shea Stadium,New York,New York City,2000,26,1,85,65.9,13
+Mets,Shea Stadium,New York,New York City,2001,27,0,89,67.8,13
+Mets,Shea Stadium,New York,New York City,2002,26,0,98,68.5,13
+Mets,Shea Stadium,New York,New York City,2003,26,0,85,66.2,13
+Mets,Shea Stadium,New York,New York City,2004,27,0,85,67.8,13
+Mets,Shea Stadium,New York,New York City,2005,27,0,91,69.2,13
+Mets,Shea Stadium,New York,New York City,2006,26,1,87,68.2,13
+Mets,Shea Stadium,New York,New York City,2007,26,0,94,67.6,13
+Mets,Shea Stadium,New York,New York City,2008,27,0,111,68.1,13
+Mets,Citi Field,New York,New York City,2010,27,0,76,71,13
+Mets,Citi Field,New York,New York City,2011,26,0,77,69.5,13
+Mets,Citi Field,New York,New York City,2012,27,0,108,69.3,13
+Mets,Citi Field,New York,New York City,2013,26,0,110,68,13
+Mets,Citi Field,New York,New York City,2014,27,0,92,67.8,13
+Mets,Citi Field,New York,New York City,2015,27,1,106,70,13
+Mets,Citi Field,New York,New York City,2016,27,1,113,69.5,13
+Mets,Citi Field,New York,New York City,2017,26,0,81,68.5,13
+Mets,Citi Field,New York,New York City,2018,26,0,102,69,13
+Mets,Citi Field,New York,New York City,2019,27,0,107,69.1,13
+Mets,Citi Field,New York,New York City,2020,10,0,114,68.4,13
+Mets,Citi Field,New York,New York City,2021,27,0,91,69.1,13
+Mets,Citi Field,New York,New York City,2022,27,1,81,69.3,13
+Yankees,Yankee Stadium,New York,New York City,1999,27,1,84,68.6,6
+Yankees,Yankee Stadium,New York,New York City,2000,26,1,113,65.9,6
+Yankees,Yankee Stadium,New York,New York City,2001,27,1,131,67.8,6
+Yankees,Yankee Stadium,New York,New York City,2002,26,1,111,68.5,6
+Yankees,Yankee Stadium,New York,New York City,2003,26,1,96,66.2,6
+Yankees,Yankee Stadium,New York,New York City,2004,27,1,104,67.8,6
+Yankees,Yankee Stadium,New York,New York City,2005,27,1,111,69.2,6
+Yankees,Yankee Stadium,New York,New York City,2006,26,1,110,68.2,6
+Yankees,Yankee Stadium,New York,New York City,2007,26,1,109,67.6,6
+Yankees,Yankee Stadium,New York,New York City,2008,27,0,103,68.1,6
+Yankees,Yankee Stadium,New York,New York City,2010,27,1,138,71,6
+Yankees,Yankee Stadium,New York,New York City,2011,26,1,128,69.5,6
+Yankees,Yankee Stadium,New York,New York City,2012,27,1,119,69.3,6
+Yankees,Yankee Stadium,New York,New York City,2013,26,0,115,68,6
+Yankees,Yankee Stadium,New York,New York City,2014,27,0,151,67.8,6
+Yankees,Yankee Stadium,New York,New York City,2015,27,1,125,70,6
+Yankees,Yankee Stadium,New York,New York City,2016,27,0,136,69.5,6
+Yankees,Yankee Stadium,New York,New York City,2017,26,1,126,68.5,6
+Yankees,Yankee Stadium,New York,New York City,2018,26,1,112,69,6
+Yankees,Yankee Stadium,New York,New York City,2019,27,1,90,69.1,6
+Yankees,Yankee Stadium,New York,New York City,2020,10,1,118,68.4,6
+Yankees,Yankee Stadium,New York,New York City,2021,27,1,116,69.1,6
+Yankees,Yankee Stadium,New York,New York City,2022,27,1,103,69.3,6
+Reds,Cinergy Field,Ohio,Cincinnati,1999,27,0,113,69,482
+Reds,Cinergy Field,Ohio,Cincinnati,2000,26,0,104,67.2,482
+Reds,Cinergy Field,Ohio,Cincinnati,2001,27,0,96,68.1,482
+Reds,Cinergy Field,Ohio,Cincinnati,2002,26,0,136,69.6,482
+Reds,Great American Ball Park,Ohio,Cincinnati,2004,27,0,110,67.7,482
+Reds,Great American Ball Park,Ohio,Cincinnati,2005,27,0,122,68.9,482
+Reds,Great American Ball Park,Ohio,Cincinnati,2006,26,0,132,67.7,482
+Reds,Great American Ball Park,Ohio,Cincinnati,2007,26,0,133,69.6,482
+Reds,Great American Ball Park,Ohio,Cincinnati,2008,27,0,127,67.7,482
+Reds,Great American Ball Park,Ohio,Cincinnati,2009,27,0,118,66.9,482
+Reds,Great American Ball Park,Ohio,Cincinnati,2010,27,1,116,70.6,482
+Reds,Great American Ball Park,Ohio,Cincinnati,2011,26,0,132,68.9,482
+Reds,Great American Ball Park,Ohio,Cincinnati,2012,27,1,159,69.4,482
+Reds,Great American Ball Park,Ohio,Cincinnati,2013,26,1,124,67.6,482
+Reds,Great American Ball Park,Ohio,Cincinnati,2014,27,0,127,67.2,482
+Reds,Great American Ball Park,Ohio,Cincinnati,2015,27,0,110,68.3,482
+Reds,Great American Ball Park,Ohio,Cincinnati,2016,27,0,120,69.1,482
+Reds,Great American Ball Park,Ohio,Cincinnati,2017,26,0,111,68.1,482
+Reds,Great American Ball Park,Ohio,Cincinnati,2018,26,0,135,69.8,482
+Reds,Great American Ball Park,Ohio,Cincinnati,2019,27,0,112,69.7,482
+Reds,Great American Ball Park,Ohio,Cincinnati,2020,10,1,177,67.5,482
+Reds,Great American Ball Park,Ohio,Cincinnati,2021,27,0,132,68.2,482
+Reds,Great American Ball Park,Ohio,Cincinnati,2022,27,0,143,68.4,482
+Guardians,Progressive Field,Ohio,Cleveland,1999,27,1,114,65.1,653
+Guardians,Progressive Field,Ohio,Cleveland,2000,26,0,115,63,653
+Guardians,Progressive Field,Ohio,Cleveland,2001,27,1,129,64.2,653
+Guardians,Progressive Field,Ohio,Cleveland,2002,26,0,97,65.4,653
+Guardians,Progressive Field,Ohio,Cleveland,2003,26,0,76,63.3,653
+Guardians,Progressive Field,Ohio,Cleveland,2004,27,0,74,64,653
+Guardians,Progressive Field,Ohio,Cleveland,2005,27,0,89,65.6,653
+Guardians,Progressive Field,Ohio,Cleveland,2006,26,0,91,64.3,653
+Guardians,Progressive Field,Ohio,Cleveland,2007,26,1,109,64.9,653
+Guardians,Progressive Field,Ohio,Cleveland,2008,27,0,85,64.6,653
+Guardians,Progressive Field,Ohio,Cleveland,2009,27,0,73,63.5,653
+Guardians,Progressive Field,Ohio,Cleveland,2010,27,0,90,67.1,653
+Guardians,Progressive Field,Ohio,Cleveland,2011,26,0,111,65.4,653
+Guardians,Progressive Field,Ohio,Cleveland,2012,27,0,90,65.3,653
+Guardians,Progressive Field,Ohio,Cleveland,2013,26,1,108,64.1,653
+Guardians,Progressive Field,Ohio,Cleveland,2014,27,0,102,63.4,653
+Guardians,Progressive Field,Ohio,Cleveland,2015,27,0,94,65,653
+Guardians,Progressive Field,Ohio,Cleveland,2016,27,1,120,65.9,653
+Guardians,Progressive Field,Ohio,Cleveland,2017,26,1,96,65.6,653
+Guardians,Progressive Field,Ohio,Cleveland,2018,26,1,100,65.7,653
+Guardians,Progressive Field,Ohio,Cleveland,2019,27,0,98,65.9,653
+Guardians,Progressive Field,Ohio,Cleveland,2020,10,1,95,64.1,653
+Guardians,Progressive Field,Ohio,Cleveland,2021,27,0,107,65.9,653
+Guardians,Progressive Field,Ohio,Cleveland,2022,27,1,91,65.4,653
+Blue Jays,Rogers Centre,Ontario,Toronto,1999,27,0,95,51.1,76
+Blue Jays,Rogers Centre,Ontario,Toronto,2000,26,0,107,49.1,76
+Blue Jays,Rogers Centre,Ontario,Toronto,2001,27,0,92,51.2,76
+Blue Jays,Rogers Centre,Ontario,Toronto,2002,26,0,115,50.8,76
+Blue Jays,Rogers Centre,Ontario,Toronto,2003,26,0,112,47.9,76
+Blue Jays,Rogers Centre,Ontario,Toronto,2004,27,0,106,48.3,76
+Blue Jays,Rogers Centre,Ontario,Toronto,2005,27,0,124,49.9,76
+Blue Jays,Rogers Centre,Ontario,Toronto,2006,26,0,127,50.9,76
+Blue Jays,Rogers Centre,Ontario,Toronto,2007,26,0,117,49.5,76
+Blue Jays,Rogers Centre,Ontario,Toronto,2008,27,0,90,48.9,76
+Blue Jays,Rogers Centre,Ontario,Toronto,2009,27,0,110,48.4,76
+Blue Jays,Rogers Centre,Ontario,Toronto,2010,27,0,143,50.9,76
+Blue Jays,Rogers Centre,Ontario,Toronto,2011,26,0,113,50.2,76
+Blue Jays,Rogers Centre,Ontario,Toronto,2012,27,0,103,52.4,76
+Blue Jays,Rogers Centre,Ontario,Toronto,2013,26,0,121,48.9,76
+Blue Jays,Rogers Centre,Ontario,Toronto,2014,27,0,136,47,76
+Blue Jays,Rogers Centre,Ontario,Toronto,2015,27,1,105,48.7,76
+Blue Jays,Rogers Centre,Ontario,Toronto,2016,27,1,98,51.2,76
+Blue Jays,Rogers Centre,Ontario,Toronto,2017,26,0,99,49.6,76
+Blue Jays,Rogers Centre,Ontario,Toronto,2018,26,0,108,49.4,76
+Blue Jays,Rogers Centre,Ontario,Toronto,2019,27,0,124,48.2,76
+Blue Jays,Rogers Centre,Ontario,Toronto,2021,27,0,95,51.4,76
+Blue Jays,Rogers Centre,Ontario,Toronto,2022,27,1,117,49.7,76
+Phillies,Veterans Stadium,Pennsylvania,Philadelphia,1999,27,0,98,68.6,9
+Phillies,Veterans Stadium,Pennsylvania,Philadelphia,2000,26,0,90,66.2,9
+Phillies,Veterans Stadium,Pennsylvania,Philadelphia,2001,27,0,94,67.9,9
+Phillies,Veterans Stadium,Pennsylvania,Philadelphia,2002,26,0,97,69,9
+Phillies,Veterans Stadium,Pennsylvania,Philadelphia,2003,26,0,88,66.7,9
+Phillies,Citizens Bank Park,Pennsylvania,Philadelphia,2005,27,0,125,69.4,9
+Phillies,Citizens Bank Park,Pennsylvania,Philadelphia,2006,26,0,118,68.5,9
+Phillies,Citizens Bank Park,Pennsylvania,Philadelphia,2007,26,1,147,68.2,9
+Phillies,Citizens Bank Park,Pennsylvania,Philadelphia,2008,27,1,102,68.5,9
+Phillies,Citizens Bank Park,Pennsylvania,Philadelphia,2009,27,1,109,67.3,9
+Phillies,Citizens Bank Park,Pennsylvania,Philadelphia,2010,27,1,115,71.3,9
+Phillies,Citizens Bank Park,Pennsylvania,Philadelphia,2011,26,1,97,70.2,9
+Phillies,Citizens Bank Park,Pennsylvania,Philadelphia,2012,27,0,113,69.7,9
+Phillies,Citizens Bank Park,Pennsylvania,Philadelphia,2013,26,0,146,68.1,9
+Phillies,Citizens Bank Park,Pennsylvania,Philadelphia,2014,27,0,117,68.2,9
+Phillies,Citizens Bank Park,Pennsylvania,Philadelphia,2015,27,0,108,70.4,9
+Phillies,Citizens Bank Park,Pennsylvania,Philadelphia,2016,27,0,114,69.8,9
+Phillies,Citizens Bank Park,Pennsylvania,Philadelphia,2017,26,0,130,69.2,9
+Phillies,Citizens Bank Park,Pennsylvania,Philadelphia,2018,26,0,118,70,9
+Phillies,Citizens Bank Park,Pennsylvania,Philadelphia,2019,27,0,118,70.9,9
+Phillies,Citizens Bank Park,Pennsylvania,Philadelphia,2020,10,0,127,68.4,9
+Phillies,Citizens Bank Park,Pennsylvania,Philadelphia,2021,27,0,97,69.5,9
+Phillies,Citizens Bank Park,Pennsylvania,Philadelphia,2022,27,1,120,69.7,9
+Pirates,Three Rivers Stadium,Pennsylvania,Pittsburgh,1999,27,0,102,65.8,724
+Pirates,Three Rivers Stadium,Pennsylvania,Pittsburgh,2000,26,0,122,63.9,724
+Pirates,PNC Park,Pennsylvania,Pittsburgh,2002,26,0,97,66,724
+Pirates,PNC Park,Pennsylvania,Pittsburgh,2003,26,0,86,64,724
+Pirates,PNC Park,Pennsylvania,Pittsburgh,2004,27,0,84,64.7,724
+Pirates,PNC Park,Pennsylvania,Pittsburgh,2005,27,0,84,66.1,724
+Pirates,PNC Park,Pennsylvania,Pittsburgh,2006,26,0,78,64.4,724
+Pirates,PNC Park,Pennsylvania,Pittsburgh,2007,26,0,80,65,724
+Pirates,PNC Park,Pennsylvania,Pittsburgh,2008,27,0,85,64.4,724
+Pirates,PNC Park,Pennsylvania,Pittsburgh,2009,27,0,97,64,724
+Pirates,PNC Park,Pennsylvania,Pittsburgh,2010,27,0,78,67.1,724
+Pirates,PNC Park,Pennsylvania,Pittsburgh,2011,26,0,83,66.5,724
+Pirates,PNC Park,Pennsylvania,Pittsburgh,2012,27,0,65,66.3,724
+Pirates,PNC Park,Pennsylvania,Pittsburgh,2013,26,1,70,64.8,724
+Pirates,PNC Park,Pennsylvania,Pittsburgh,2014,27,1,72,64.4,724
+Pirates,PNC Park,Pennsylvania,Pittsburgh,2015,27,1,103,66.1,724
+Pirates,PNC Park,Pennsylvania,Pittsburgh,2016,27,0,78,66.5,724
+Pirates,PNC Park,Pennsylvania,Pittsburgh,2017,26,0,85,65.4,724
+Pirates,PNC Park,Pennsylvania,Pittsburgh,2018,26,0,84,66.2,724
+Pirates,PNC Park,Pennsylvania,Pittsburgh,2019,27,0,86,66.4,724
+Pirates,PNC Park,Pennsylvania,Pittsburgh,2020,10,0,87,64.8,724
+Pirates,PNC Park,Pennsylvania,Pittsburgh,2021,27,0,79,65.5,724
+Pirates,PNC Park,Pennsylvania,Pittsburgh,2022,27,0,94,65.3,724
+Expos,Olympic Stadium,Quebec,Montreal,1999,27,0,86,46.8,164
+Expos,Olympic Stadium,Quebec,Montreal,2000,26,0,112,43.6,164
+Expos,Olympic Stadium,Quebec,Montreal,2001,27,0,114,46.4,164
+Expos,Olympic Stadium,Quebec,Montreal,2002,26,0,106,45.6,164
+Expos,Olympic Stadium,Quebec,Montreal,2003,26,0,109,43.6,164
+Expos,Olympic Stadium,Quebec,Montreal,2004,27,0,114,43.3,164
+Rangers,Globe Life Park in Arlington,Texas,Arlington,1999,27,1,102,78.6,597
+Rangers,Globe Life Park in Arlington,Texas,Arlington,2000,26,0,118,78.9,597
+Rangers,Globe Life Park in Arlington,Texas,Arlington,2001,27,0,92,78.3,597
+Rangers,Globe Life Park in Arlington,Texas,Arlington,2002,26,0,130,77.7,597
+Rangers,Globe Life Park in Arlington,Texas,Arlington,2003,26,0,119,77.6,597
+Rangers,Globe Life Park in Arlington,Texas,Arlington,2004,27,0,105,76.2,597
+Rangers,Globe Life Park in Arlington,Texas,Arlington,2005,27,0,125,78.6,597
+Rangers,Globe Life Park in Arlington,Texas,Arlington,2006,26,0,100,80,597
+Rangers,Globe Life Park in Arlington,Texas,Arlington,2007,26,0,100,76.3,597
+Rangers,Globe Life Park in Arlington,Texas,Arlington,2008,27,0,119,77.8,597
+Rangers,Globe Life Park in Arlington,Texas,Arlington,2009,27,0,118,77.5,597
+Rangers,Globe Life Park in Arlington,Texas,Arlington,2010,27,1,110,79.8,597
+Rangers,Globe Life Park in Arlington,Texas,Arlington,2011,26,1,141,81.9,597
+Rangers,Globe Life Park in Arlington,Texas,Arlington,2012,27,1,112,80.1,597
+Rangers,Globe Life Park in Arlington,Texas,Arlington,2013,26,0,92,77.6,597
+Rangers,Globe Life Park in Arlington,Texas,Arlington,2014,27,0,91,77.5,597
+Rangers,Globe Life Park in Arlington,Texas,Arlington,2015,27,1,99,78.8,597
+Rangers,Globe Life Park in Arlington,Texas,Arlington,2016,27,1,109,78.3,597
+Rangers,Globe Life Park in Arlington,Texas,Arlington,2017,26,0,111,77.8,597
+Rangers,Globe Life Park in Arlington,Texas,Arlington,2018,26,0,127,78.9,597
+Rangers,Globe Life Park in Arlington,Texas,Arlington,2019,27,0,103,78.5,597
+Rangers,Globe Life Field,Texas,Arlington,2021,27,0,95,76.4,597
+Rangers,Globe Life Field,Texas,Arlington,2022,27,0,114,80.9,597
+Astros,Astrodome,Texas,Houston,1999,27,1,69,77.9,52
+Astros,Minute Maid Park,Texas,Houston,2001,27,1,110,77,52
+Astros,Minute Maid Park,Texas,Houston,2002,26,0,99,77.7,52
+Astros,Minute Maid Park,Texas,Houston,2003,26,0,114,77.3,52
+Astros,Minute Maid Park,Texas,Houston,2004,27,1,102,76.5,52
+Astros,Minute Maid Park,Texas,Houston,2005,27,1,119,78,52
+Astros,Minute Maid Park,Texas,Houston,2006,26,0,116,78.4,52
+Astros,Minute Maid Park,Texas,Houston,2007,26,0,104,76.6,52
+Astros,Minute Maid Park,Texas,Houston,2008,27,0,115,77.3,52
+Astros,Minute Maid Park,Texas,Houston,2009,27,0,100,77.9,52
+Astros,Minute Maid Park,Texas,Houston,2010,27,0,117,79.6,52
+Astros,Minute Maid Park,Texas,Houston,2011,26,0,110,81.4,52
+Astros,Minute Maid Park,Texas,Houston,2012,27,0,94,79,52
+Astros,Minute Maid Park,Texas,Houston,2013,26,0,113,78.1,52
+Astros,Minute Maid Park,Texas,Houston,2014,27,0,114,76.6,52
+Astros,Minute Maid Park,Texas,Houston,2015,27,1,123,78.6,52
+Astros,Minute Maid Park,Texas,Houston,2016,27,0,82,77.8,52
+Astros,Minute Maid Park,Texas,Houston,2017,26,1,107,76.9,52
+Astros,Minute Maid Park,Texas,Houston,2018,26,1,107,78.3,52
+Astros,Minute Maid Park,Texas,Houston,2019,27,1,121,77.8,52
+Astros,Minute Maid Park,Texas,Houston,2020,10,1,78,76.9,52
+Astros,Minute Maid Park,Texas,Houston,2021,27,1,101,76.6,52
+Astros,Minute Maid Park,Texas,Houston,2022,27,1,115,80,52
+Mariners,T-Mobile Park,Washington,Seattle,2000,26,1,77,55,17
+Mariners,T-Mobile Park,Washington,Seattle,2001,27,1,82,54.6,17
+Mariners,T-Mobile Park,Washington,Seattle,2002,26,0,81,54.8,17
+Mariners,T-Mobile Park,Washington,Seattle,2003,26,0,106,56.6,17
+Mariners,T-Mobile Park,Washington,Seattle,2004,27,0,101,57.2,17
+Mariners,T-Mobile Park,Washington,Seattle,2005,27,0,78,55.6,17
+Mariners,T-Mobile Park,Washington,Seattle,2006,26,0,90,56.3,17
+Mariners,T-Mobile Park,Washington,Seattle,2007,26,0,99,55,17
+Mariners,T-Mobile Park,Washington,Seattle,2008,27,0,93,53.8,17
+Mariners,T-Mobile Park,Washington,Seattle,2009,27,0,90,56.1,17
+Mariners,T-Mobile Park,Washington,Seattle,2010,27,0,67,53.8,17
+Mariners,T-Mobile Park,Washington,Seattle,2011,26,0,103,53.2,17
+Mariners,T-Mobile Park,Washington,Seattle,2012,27,0,63,55,17
+Mariners,T-Mobile Park,Washington,Seattle,2013,26,0,88,56.3,17
+Mariners,T-Mobile Park,Washington,Seattle,2014,27,0,114,57.5,17
+Mariners,T-Mobile Park,Washington,Seattle,2015,27,0,91,57.9,17
+Mariners,T-Mobile Park,Washington,Seattle,2016,27,0,114,57.1,17
+Mariners,T-Mobile Park,Washington,Seattle,2017,26,0,92,57.3,17
+Mariners,T-Mobile Park,Washington,Seattle,2018,26,0,104,57.1,17
+Mariners,T-Mobile Park,Washington,Seattle,2019,27,0,94,56.5,17
+Mariners,T-Mobile Park,Washington,Seattle,2020,10,0,100,56.6,17
+Mariners,T-Mobile Park,Washington,Seattle,2021,27,0,94,57.3,17
+Mariners,T-Mobile Park,Washington,Seattle,2022,27,1,102,56.2,17
+Nationals,Robert F. Kennedy Memorial Stadium,"Washington, D.C.","Washington, D.C.",2006,26,0,81,69.9,30
+Nationals,Robert F. Kennedy Memorial Stadium,"Washington, D.C.","Washington, D.C.",2007,26,0,71,70,30
+Nationals,Nationals Park,"Washington, D.C.","Washington, D.C.",2009,27,0,92,69.1,30
+Nationals,Nationals Park,"Washington, D.C.","Washington, D.C.",2010,27,0,102,72.5,30
+Nationals,Nationals Park,"Washington, D.C.","Washington, D.C.",2011,26,0,111,71.7,30
+Nationals,Nationals Park,"Washington, D.C.","Washington, D.C.",2012,27,1,101,71.2,30
+Nationals,Nationals Park,"Washington, D.C.","Washington, D.C.",2013,26,0,78,69.3,30
+Nationals,Nationals Park,"Washington, D.C.","Washington, D.C.",2014,27,1,70,69.3,30
+Nationals,Nationals Park,"Washington, D.C.","Washington, D.C.",2015,27,0,106,71.2,30
+Nationals,Nationals Park,"Washington, D.C.","Washington, D.C.",2016,27,1,103,70.8,30
+Nationals,Nationals Park,"Washington, D.C.","Washington, D.C.",2017,26,1,102,70.3,30
+Nationals,Nationals Park,"Washington, D.C.","Washington, D.C.",2018,26,0,120,71.1,30
+Nationals,Nationals Park,"Washington, D.C.","Washington, D.C.",2019,27,1,121,72.3,30
+Nationals,Nationals Park,"Washington, D.C.","Washington, D.C.",2020,10,0,87,69.4,30
+Nationals,Nationals Park,"Washington, D.C.","Washington, D.C.",2021,27,0,110,70.5,30
+Nationals,Nationals Park,"Washington, D.C.","Washington, D.C.",2022,27,0,114,70.1,30
+Brewers,Milwaukee County Stadium,Wisconsin,Milwaukee,1999,27,0,101,63.2,602
+Brewers,Milwaukee County Stadium,Wisconsin,Milwaukee,2000,26,0,74,61.5,602
+Brewers,American Family Field,Wisconsin,Milwaukee,2002,26,0,96,62.8,602
+Brewers,American Family Field,Wisconsin,Milwaukee,2003,26,0,134,60.9,602
+Brewers,American Family Field,Wisconsin,Milwaukee,2004,27,0,94,60.8,602
+Brewers,American Family Field,Wisconsin,Milwaukee,2005,27,0,112,64.1,602
+Brewers,American Family Field,Wisconsin,Milwaukee,2006,26,0,105,62.9,602
+Brewers,American Family Field,Wisconsin,Milwaukee,2007,26,0,112,62.9,602
+Brewers,American Family Field,Wisconsin,Milwaukee,2008,27,1,87,61.6,602
+Brewers,American Family Field,Wisconsin,Milwaukee,2009,27,0,106,60.6,602
+Brewers,American Family Field,Wisconsin,Milwaukee,2010,27,0,123,64.7,602
+Brewers,American Family Field,Wisconsin,Milwaukee,2011,26,1,111,61.7,602
+Brewers,American Family Field,Wisconsin,Milwaukee,2012,27,0,158,64.4,602
+Brewers,American Family Field,Wisconsin,Milwaukee,2013,26,0,120,61.3,602
+Brewers,American Family Field,Wisconsin,Milwaukee,2014,27,0,119,60.4,602
+Brewers,American Family Field,Wisconsin,Milwaukee,2015,27,0,134,61.7,602
+Brewers,American Family Field,Wisconsin,Milwaukee,2016,27,0,113,63.5,602
+Brewers,American Family Field,Wisconsin,Milwaukee,2017,26,0,109,62.6,602
+Brewers,American Family Field,Wisconsin,Milwaukee,2018,26,1,108,62.1,602
+Brewers,American Family Field,Wisconsin,Milwaukee,2019,27,1,105,62.2,602
+Brewers,American Family Field,Wisconsin,Milwaukee,2020,10,1,113,62.6,602
+Brewers,American Family Field,Wisconsin,Milwaukee,2021,27,1,103,64.7,602
+Brewers,American Family Field,Wisconsin,Milwaukee,2022,27,0,117,63,602
